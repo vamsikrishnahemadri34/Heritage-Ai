@@ -50,3 +50,7 @@ apps/mobile/ios/build/
 .idea/
 .DS_Store
 Thumbs.db
+
+# HeritageAI runtime media
+apps/api/storage/
+
