@@ -1,0 +1,485 @@
+{
+  "batch": "FULL_REMAINING_80",
+  "sites": [
+    {
+      "site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+      "slug": "ancient-city-of-sigiriya",
+      "name": "Ancient City of Sigiriya",
+      "historical_events": []
+    },
+    {
+      "site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+      "slug": "ancient-thebes-with-its-necropolis",
+      "name": "Ancient Thebes with its Necropolis",
+      "historical_events": []
+    },
+    {
+      "site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+      "slug": "angkor",
+      "name": "Angkor",
+      "historical_events": []
+    },
+    {
+      "site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+      "slug": "anjar",
+      "name": "Anjar",
+      "historical_events": []
+    },
+    {
+      "site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+      "slug": "antigua-guatemala",
+      "name": "Antigua Guatemala",
+      "historical_events": []
+    },
+    {
+      "site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+      "slug": "archaeological-ruins-at-moenjodaro",
+      "name": "Archaeological Ruins at Moenjodaro",
+      "historical_events": []
+    },
+    {
+      "site_id": "1aaf0009-ec84-440c-b7ac-d9e30ada530e",
+      "slug": "archaeological-site-of-carthage",
+      "name": "Archaeological Site of Carthage",
+      "historical_events": []
+    },
+    {
+      "site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+      "slug": "asante-traditional-buildings",
+      "name": "Asante Traditional Buildings",
+      "historical_events": []
+    },
+    {
+      "site_id": "59c8f76e-308e-4beb-ad8c-760dc883b4c1",
+      "slug": "baalbek",
+      "name": "Baalbek",
+      "historical_events": []
+    },
+    {
+      "site_id": "9ced3bac-0ac8-4d43-a06a-2eac401dc2f0",
+      "slug": "ban-chiang-archaeological-site",
+      "name": "Ban Chiang Archaeological Site",
+      "historical_events": []
+    },
+    {
+      "site_id": "52b0999a-49a8-4184-b34b-3f669ae796f4",
+      "slug": "baroque-churches-of-the-philippines",
+      "name": "Baroque Churches of the Philippines",
+      "historical_events": []
+    },
+    {
+      "site_id": "f41a3c29-8017-4392-8a16-69b8eea40a02",
+      "slug": "borobudur-temple-compounds",
+      "name": "Borobudur Temple Compounds",
+      "historical_events": []
+    },
+    {
+      "site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+      "slug": "boyana-church",
+      "name": "Boyana Church",
+      "historical_events": []
+    },
+    {
+      "site_id": "75a8b9f4-a2a8-4e46-9168-f98e9285e5af",
+      "slug": "bryggen",
+      "name": "Bryggen",
+      "historical_events": []
+    },
+    {
+      "site_id": "ee583165-6821-49ab-ada7-ecddd26d440c",
+      "slug": "buddhist-monuments-in-the-horyu-ji-area",
+      "name": "Buddhist Monuments in the Horyu-ji Area",
+      "historical_events": []
+    },
+    {
+      "site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+      "slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+      "name": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+      "historical_events": []
+    },
+    {
+      "site_id": "f8d7370a-bf7e-482a-9fe3-fe3f91dd5ead",
+      "slug": "byblos",
+      "name": "Byblos",
+      "historical_events": []
+    },
+    {
+      "site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+      "slug": "chartres-cathedral",
+      "name": "Chartres Cathedral",
+      "historical_events": []
+    },
+    {
+      "site_id": "f0913cc2-8785-4296-9d86-714c93e077af",
+      "slug": "church-and-dominican-convent-of-santa-maria-delle-grazie-with-the-last-supper-by-leonardo-da-vinci",
+      "name": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+      "historical_events": []
+    },
+    {
+      "site_id": "3e2717d6-214f-4026-9d07-3cc50f47524f",
+      "slug": "churches-and-convents-of-goa",
+      "name": "Churches and Convents of Goa",
+      "historical_events": []
+    },
+    {
+      "site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+      "slug": "city-of-quito",
+      "name": "City of Quito",
+      "historical_events": []
+    },
+    {
+      "site_id": "2acdfb7b-a20a-464a-a8fb-38b04f7bc3da",
+      "slug": "city-of-valletta",
+      "name": "City of Valletta",
+      "historical_events": []
+    },
+    {
+      "site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+      "slug": "fasil-ghebbi-gondar-region",
+      "name": "Fasil Ghebbi, Gondar Region",
+      "historical_events": []
+    },
+    {
+      "site_id": "4e2b1e04-3754-4878-8da5-ec9f307920f0",
+      "slug": "fort-and-shalamar-gardens-in-lahore",
+      "name": "Fort and Shalamar Gardens in Lahore",
+      "historical_events": []
+    },
+    {
+      "site_id": "6a87f923-1cda-4b50-bcc7-82e21df891ca",
+      "slug": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo",
+      "name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+      "historical_events": []
+    },
+    {
+      "site_id": "0fb8a906-652c-4bb4-9af0-f988aa549196",
+      "slug": "forts-and-castles-volta-greater-accra-central-and-western-regions",
+      "name": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+      "historical_events": []
+    },
+    {
+      "site_id": "988facb3-ff2a-4a22-b2d6-f5e17dc6f523",
+      "slug": "group-of-monuments-at-mahabalipuram",
+      "name": "Group of Monuments at Mahabalipuram",
+      "historical_events": []
+    },
+    {
+      "site_id": "ba82288b-5cd4-4693-87f3-342e99d36ea0",
+      "slug": "historic-cairo",
+      "name": "Historic Cairo",
+      "historical_events": []
+    },
+    {
+      "site_id": "66e7490d-42d7-4539-8de7-f9f03b4445aa",
+      "slug": "historic-centre-of-krak-w",
+      "name": "Historic Centre of Kraków",
+      "historical_events": []
+    },
+    {
+      "site_id": "6ddf2ee4-d410-4162-9812-28d27e9af126",
+      "slug": "historic-centre-of-rome-the-properties-of-the-holy-see-in-that-city-enjoying-extraterritorial-rights-and-san-paolo-fuori-le-mura",
+      "name": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+      "historical_events": []
+    },
+    {
+      "site_id": "83cbba48-4f88-4e84-a260-7bc4a0822f18",
+      "slug": "historic-city-of-ayutthaya",
+      "name": "Historic City of Ayutthaya",
+      "historical_events": []
+    },
+    {
+      "site_id": "b161113b-8674-4d92-ac5b-f329c76beea9",
+      "slug": "historic-mosque-city-of-bagerhat",
+      "name": "Historic Mosque City of Bagerhat",
+      "historical_events": []
+    },
+    {
+      "site_id": "e430113b-b814-4882-9681-7684790328f5",
+      "slug": "historic-town-of-ouro-preto",
+      "name": "Historic Town of Ouro Preto",
+      "historical_events": []
+    },
+    {
+      "site_id": "bab39af9-e09f-42f8-9067-e883cf6bcef4",
+      "slug": "historic-town-of-sukhothai-and-associated-historic-towns",
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "historical_events": []
+    },
+    {
+      "site_id": "361545f3-7bb9-4488-87b3-950254d1fb20",
+      "slug": "historical-complex-of-split-with-the-palace-of-diocletian",
+      "name": "Historical Complex of Split with the Palace of Diocletian",
+      "historical_events": []
+    },
+    {
+      "site_id": "0fd03ab7-ad49-4e21-a829-d68add17baaa",
+      "slug": "historical-monuments-at-makli-thatta",
+      "name": "Historical Monuments at Makli, Thatta",
+      "historical_events": []
+    },
+    {
+      "site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+      "slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+      "name": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+      "historical_events": []
+    },
+    {
+      "site_id": "b91eae1b-4437-4f86-a3e5-5e7aa6619c30",
+      "slug": "independence-hall",
+      "name": "Independence Hall",
+      "historical_events": []
+    },
+    {
+      "site_id": "2ee3258c-82f6-4424-93dc-192927de6e2f",
+      "slug": "island-of-gor-e",
+      "name": "Island of Gorée",
+      "historical_events": []
+    },
+    {
+      "site_id": "e9f6138c-5583-482a-b46a-6f99502fce6a",
+      "slug": "kathmandu-valley",
+      "name": "Kathmandu Valley",
+      "historical_events": []
+    },
+    {
+      "site_id": "ccb745ed-d994-4625-b79e-77a1a620f2f8",
+      "slug": "l-anse-aux-meadows-national-historic-site",
+      "name": "L’Anse aux Meadows National Historic Site",
+      "historical_events": []
+    },
+    {
+      "site_id": "c48f4425-9857-420c-b120-00d12a28cc2a",
+      "slug": "madara-rider",
+      "name": "Madara Rider",
+      "historical_events": []
+    },
+    {
+      "site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+      "slug": "mausoleum-of-the-first-qin-emperor",
+      "name": "Mausoleum of the First Qin Emperor",
+      "historical_events": []
+    },
+    {
+      "site_id": "5eb639e5-3072-434f-8df7-ff2f174be694",
+      "slug": "maya-site-of-copan",
+      "name": "Maya Site of Copan",
+      "historical_events": []
+    },
+    {
+      "site_id": "3e0fc817-39b7-4410-be15-4dec10778dfe",
+      "slug": "medina-of-tunis",
+      "name": "Medina of Tunis",
+      "historical_events": []
+    },
+    {
+      "site_id": "46992f9f-61c0-4ee2-8ba6-123cabb46faa",
+      "slug": "meidan-emam-esfahan",
+      "name": "Meidan Emam, Esfahan",
+      "historical_events": []
+    },
+    {
+      "site_id": "5fd77b31-a004-4f0b-8b01-cad21520cfe1",
+      "slug": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+      "name": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+      "historical_events": []
+    },
+    {
+      "site_id": "5aa1723c-f184-4c46-835b-0eaa5b5ca72b",
+      "slug": "mesa-verde-national-park",
+      "name": "Mesa Verde National Park",
+      "historical_events": []
+    },
+    {
+      "site_id": "de4c3cc9-a844-4397-89c6-a0a3bf047ad2",
+      "slug": "mogao-caves",
+      "name": "Mogao Caves",
+      "historical_events": []
+    },
+    {
+      "site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+      "slug": "mont-saint-michel-and-its-bay",
+      "name": "Mont-Saint-Michel and its Bay",
+      "historical_events": []
+    },
+    {
+      "site_id": "df5346eb-571b-4ade-b2de-a3f827b80896",
+      "slug": "mount-huangshan",
+      "name": "Mount Huangshan",
+      "historical_events": []
+    },
+    {
+      "site_id": "63bb128f-df25-4ebc-85cd-edb4dd364789",
+      "slug": "mount-taishan",
+      "name": "Mount Taishan",
+      "historical_events": []
+    },
+    {
+      "site_id": "80da273a-f9e7-46e1-8c62-35e02d54d249",
+      "slug": "natural-and-cultural-heritage-of-the-ohrid-region",
+      "name": "Natural and Cultural Heritage of the Ohrid region",
+      "historical_events": []
+    },
+    {
+      "site_id": "1a811d1c-b4dc-44a5-9e3d-0949903ccb63",
+      "slug": "natural-and-culturo-historical-region-of-kotor",
+      "name": "Natural and Culturo-Historical Region of Kotor",
+      "historical_events": []
+    },
+    {
+      "site_id": "84b91a09-575a-43f3-a340-5b9fc155c63a",
+      "slug": "ngorongoro-conservation-area",
+      "name": "Ngorongoro Conservation Area",
+      "historical_events": []
+    },
+    {
+      "site_id": "329278b4-7e5d-4913-815f-e8bfb3454e2f",
+      "slug": "nubian-monuments-from-abu-simbel-to-philae",
+      "name": "Nubian Monuments from Abu Simbel to Philae",
+      "historical_events": []
+    },
+    {
+      "site_id": "2224951e-0608-4a11-b799-2b87358d9d36",
+      "slug": "old-city-of-dubrovnik",
+      "name": "Old City of Dubrovnik",
+      "historical_events": []
+    },
+    {
+      "site_id": "590a5e81-c01f-4b66-a4a0-7504cd53e293",
+      "slug": "old-walled-city-of-shibam",
+      "name": "Old Walled City of Shibam",
+      "historical_events": []
+    },
+    {
+      "site_id": "bae6be72-bec4-415d-b116-0eb18de7805e",
+      "slug": "palace-and-park-of-versailles",
+      "name": "Palace and Park of Versailles",
+      "historical_events": []
+    },
+    {
+      "site_id": "e1e9c84d-ad18-418d-8fc2-453b33bdff75",
+      "slug": "peking-man-site-at-zhoukoudian",
+      "name": "Peking Man Site at Zhoukoudian",
+      "historical_events": []
+    },
+    {
+      "site_id": "858206c8-a5b5-49cd-bc7b-bfc681d9be14",
+      "slug": "persepolis",
+      "name": "Persepolis",
+      "historical_events": []
+    },
+    {
+      "site_id": "8b0be42c-254e-4c6d-9df9-a9a356ed5eaa",
+      "slug": "prambanan-temple-compounds",
+      "name": "Prambanan Temple Compounds",
+      "historical_events": []
+    },
+    {
+      "site_id": "63cbf4fc-d94d-452d-b5e2-a98221098023",
+      "slug": "prehistoric-sites-and-decorated-caves-of-the-v-z-re-valley",
+      "name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+      "historical_events": []
+    },
+    {
+      "site_id": "c579d621-9ed9-41da-9934-dc30e8f3effb",
+      "slug": "rock-drawings-in-valcamonica",
+      "name": "Rock Drawings in Valcamonica",
+      "historical_events": []
+    },
+    {
+      "site_id": "edddcc38-413e-49a3-9189-ffcc98d348aa",
+      "slug": "rock-hewn-churches-of-ivanovo",
+      "name": "Rock-Hewn Churches of Ivanovo",
+      "historical_events": []
+    },
+    {
+      "site_id": "c2268a3b-ba10-4369-8d60-62102e56ea0d",
+      "slug": "rock-hewn-churches-lalibela",
+      "name": "Rock-Hewn Churches, Lalibela",
+      "historical_events": []
+    },
+    {
+      "site_id": "2dc90942-6c1b-49f6-ba53-299b85b3a4fd",
+      "slug": "ruins-of-the-buddhist-vihara-at-paharpur",
+      "name": "Ruins of the Buddhist Vihara at Paharpur",
+      "historical_events": []
+    },
+    {
+      "site_id": "3af24907-27cc-4f38-8e92-49356c3e1126",
+      "slug": "sacred-city-of-anuradhapura",
+      "name": "Sacred City of Anuradhapura",
+      "historical_events": []
+    },
+    {
+      "site_id": "0e4f2653-a47e-44ea-9501-775687b45da4",
+      "slug": "site-of-palmyra",
+      "name": "Site of Palmyra",
+      "historical_events": []
+    },
+    {
+      "site_id": "356b85d7-e754-4ff2-a685-7972e4df9dd2",
+      "slug": "stari-ras-and-sopo-ani",
+      "name": "Stari Ras and Sopoćani",
+      "historical_events": []
+    },
+    {
+      "site_id": "824dbbd6-66e2-447e-ae56-55a85aa4c1ae",
+      "slug": "sun-temple-kon-rak",
+      "name": "Sun Temple, Konârak",
+      "historical_events": []
+    },
+    {
+      "site_id": "7bb04299-5c62-4a8c-bd9a-1112ba28bfc7",
+      "slug": "taxila",
+      "name": "Taxila",
+      "historical_events": []
+    },
+    {
+      "site_id": "26a7b4b3-e9f0-4be4-ae9d-7953fe4df01f",
+      "slug": "tchogha-zanbil",
+      "name": "Tchogha Zanbil",
+      "historical_events": []
+    },
+    {
+      "site_id": "bdba12d3-5acf-418e-a121-4f67ec09641a",
+      "slug": "the-great-wall",
+      "name": "The Great Wall",
+      "historical_events": []
+    },
+    {
+      "site_id": "7a541af3-5070-4ca4-ad17-57069cf69db6",
+      "slug": "thracian-tomb-of-kazanlak",
+      "name": "Thracian Tomb of Kazanlak",
+      "historical_events": []
+    },
+    {
+      "site_id": "a66777b9-d806-4aeb-81e3-ecaefe1949f0",
+      "slug": "tikal-national-park",
+      "name": "Tikal National Park",
+      "historical_events": []
+    },
+    {
+      "site_id": "1bdf556e-84ea-4fb4-80fb-d771211b2a19",
+      "slug": "urnes-stave-church",
+      "name": "Urnes Stave Church",
+      "historical_events": []
+    },
+    {
+      "site_id": "77e4d491-f38b-40cf-b9a0-bb95fe36c84b",
+      "slug": "v-zelay-church-and-hill",
+      "name": "Vézelay, Church and Hill",
+      "historical_events": []
+    },
+    {
+      "site_id": "1ddd8845-d8bf-4a16-9b7a-e670957d39e1",
+      "slug": "wieliczka-and-bochnia-royal-salt-mines",
+      "name": "Wieliczka and Bochnia Royal Salt Mines",
+      "historical_events": []
+    },
+    {
+      "site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+      "slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+      "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+      "historical_events": []
+    }
+  ]
+}

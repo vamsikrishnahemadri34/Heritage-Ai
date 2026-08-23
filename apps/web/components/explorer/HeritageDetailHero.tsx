@@ -367,7 +367,7 @@ function openViewer() {
             <div className="absolute bottom-3 left-1/2 -translate-x-1/2 rounded-full border border-white/10 bg-black/50 px-4 py-2 text-[10px] font-medium tracking-wide text-white/75 backdrop-blur-md">
               {site.name}
               {images.length > 1 &&
-                ` ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ${selectedIndex + 1} / ${images.length}`}
+                ` · ${selectedIndex + 1} / ${images.length}`}
             </div>
           </div>
         </div>

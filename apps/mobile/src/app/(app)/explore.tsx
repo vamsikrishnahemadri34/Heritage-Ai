@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+﻿import { useEffect, useState } from "react";
 import {
   ActivityIndicator,
   Image,
@@ -394,3 +394,6 @@ const styles = StyleSheet.create({
     color: "#6B6B6B",
   },
 });
+
+
+

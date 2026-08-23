@@ -12,7 +12,6 @@ import {
 
 import {
   getCurrentUser,
-  googleLogin as googleLoginRequest,
   login as loginRequest,
 } from "@/services/auth";
 
@@ -26,7 +25,6 @@ interface AuthContextValue {
   isAuthenticated: boolean;
   isLoading: boolean;
   login: (data: LoginRequest) => Promise<UserResponse>;
-  loginWithGoogle: (idToken: string) => Promise<UserResponse>;
   logout: () => void;
 }
 
@@ -64,24 +62,6 @@ export function AuthProvider({
     return currentUser;
   }, []);
 
-  const loginWithGoogle = useCallback(
-    async (idToken: string) => {
-      const token = await googleLoginRequest(idToken);
-
-      localStorage.setItem(
-        ACCESS_TOKEN_KEY,
-        token.access_token,
-      );
-
-      const currentUser = await getCurrentUser();
-
-      setUser(currentUser);
-
-      return currentUser;
-    },
-    [],
-  );
-
   useEffect(() => {
     const restoreSession = async () => {
       const token = localStorage.getItem(
@@ -113,10 +93,9 @@ export function AuthProvider({
       isAuthenticated: Boolean(user),
       isLoading,
       login,
-      loginWithGoogle,
       logout,
     }),
-    [user, isLoading, login, loginWithGoogle, logout],
+    [user, isLoading, login, logout],
   );
 
   return (

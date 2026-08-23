@@ -1,0 +1,1685 @@
+{
+  "batch": "FULL_REMAINING_80",
+  "sites": [
+    {
+      "site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+      "slug": "ancient-city-of-sigiriya",
+      "name": "Ancient City of Sigiriya",
+      "relations": [
+        {
+          "target_site_id": "3af24907-27cc-4f38-8e92-49356c3e1126",
+          "target_slug": "sacred-city-of-anuradhapura",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ancient City of Sigiriya.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ancient City of Sigiriya.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+      "slug": "ancient-thebes-with-its-necropolis",
+      "name": "Ancient Thebes with its Necropolis",
+      "relations": [
+        {
+          "target_site_id": "ba82288b-5cd4-4693-87f3-342e99d36ea0",
+          "target_slug": "historic-cairo",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ancient Thebes with its Necropolis.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "5fd77b31-a004-4f0b-8b01-cad21520cfe1",
+          "target_slug": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ancient Thebes with its Necropolis.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+      "slug": "angkor",
+      "name": "Angkor",
+      "relations": [
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Angkor.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+          "target_slug": "archaeological-ruins-at-moenjodaro",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Angkor.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+      "slug": "anjar",
+      "name": "Anjar",
+      "relations": [
+        {
+          "target_site_id": "59c8f76e-308e-4beb-ad8c-760dc883b4c1",
+          "target_slug": "baalbek",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Anjar.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "f8d7370a-bf7e-482a-9fe3-fe3f91dd5ead",
+          "target_slug": "byblos",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Anjar.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+      "slug": "antigua-guatemala",
+      "name": "Antigua Guatemala",
+      "relations": [
+        {
+          "target_site_id": "a66777b9-d806-4aeb-81e3-ecaefe1949f0",
+          "target_slug": "tikal-national-park",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Antigua Guatemala.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+          "target_slug": "city-of-quito",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Antigua Guatemala.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+      "slug": "archaeological-ruins-at-moenjodaro",
+      "name": "Archaeological Ruins at Moenjodaro",
+      "relations": [
+        {
+          "target_site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+          "target_slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Archaeological Ruins at Moenjodaro.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4e2b1e04-3754-4878-8da5-ec9f307920f0",
+          "target_slug": "fort-and-shalamar-gardens-in-lahore",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Archaeological Ruins at Moenjodaro.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "1aaf0009-ec84-440c-b7ac-d9e30ada530e",
+      "slug": "archaeological-site-of-carthage",
+      "name": "Archaeological Site of Carthage",
+      "relations": [
+        {
+          "target_site_id": "3e0fc817-39b7-4410-be15-4dec10778dfe",
+          "target_slug": "medina-of-tunis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Archaeological Site of Carthage.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Archaeological Site of Carthage.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+      "slug": "asante-traditional-buildings",
+      "name": "Asante Traditional Buildings",
+      "relations": [
+        {
+          "target_site_id": "0fb8a906-652c-4bb4-9af0-f988aa549196",
+          "target_slug": "forts-and-castles-volta-greater-accra-central-and-western-regions",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Asante Traditional Buildings.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+          "target_slug": "fasil-ghebbi-gondar-region",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Asante Traditional Buildings.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "59c8f76e-308e-4beb-ad8c-760dc883b4c1",
+      "slug": "baalbek",
+      "name": "Baalbek",
+      "relations": [
+        {
+          "target_site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+          "target_slug": "anjar",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Baalbek.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "f8d7370a-bf7e-482a-9fe3-fe3f91dd5ead",
+          "target_slug": "byblos",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Baalbek.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "9ced3bac-0ac8-4d43-a06a-2eac401dc2f0",
+      "slug": "ban-chiang-archaeological-site",
+      "name": "Ban Chiang Archaeological Site",
+      "relations": [
+        {
+          "target_site_id": "83cbba48-4f88-4e84-a260-7bc4a0822f18",
+          "target_slug": "historic-city-of-ayutthaya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ban Chiang Archaeological Site.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "bab39af9-e09f-42f8-9067-e883cf6bcef4",
+          "target_slug": "historic-town-of-sukhothai-and-associated-historic-towns",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ban Chiang Archaeological Site.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "52b0999a-49a8-4184-b34b-3f669ae796f4",
+      "slug": "baroque-churches-of-the-philippines",
+      "name": "Baroque Churches of the Philippines",
+      "relations": [
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Baroque Churches of the Philippines.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Baroque Churches of the Philippines.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "f41a3c29-8017-4392-8a16-69b8eea40a02",
+      "slug": "borobudur-temple-compounds",
+      "name": "Borobudur Temple Compounds",
+      "relations": [
+        {
+          "target_site_id": "8b0be42c-254e-4c6d-9df9-a9a356ed5eaa",
+          "target_slug": "prambanan-temple-compounds",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Borobudur Temple Compounds.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Borobudur Temple Compounds.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+      "slug": "boyana-church",
+      "name": "Boyana Church",
+      "relations": [
+        {
+          "target_site_id": "c48f4425-9857-420c-b120-00d12a28cc2a",
+          "target_slug": "madara-rider",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Boyana Church.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "edddcc38-413e-49a3-9189-ffcc98d348aa",
+          "target_slug": "rock-hewn-churches-of-ivanovo",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Boyana Church.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "75a8b9f4-a2a8-4e46-9168-f98e9285e5af",
+      "slug": "bryggen",
+      "name": "Bryggen",
+      "relations": [
+        {
+          "target_site_id": "1bdf556e-84ea-4fb4-80fb-d771211b2a19",
+          "target_slug": "urnes-stave-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Bryggen.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Bryggen.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "ee583165-6821-49ab-ada7-ecddd26d440c",
+      "slug": "buddhist-monuments-in-the-horyu-ji-area",
+      "name": "Buddhist Monuments in the Horyu-ji Area",
+      "relations": [
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Buddhist Monuments in the Horyu-ji Area.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Buddhist Monuments in the Horyu-ji Area.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+      "slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+      "name": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+      "relations": [
+        {
+          "target_site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+          "target_slug": "archaeological-ruins-at-moenjodaro",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4e2b1e04-3754-4878-8da5-ec9f307920f0",
+          "target_slug": "fort-and-shalamar-gardens-in-lahore",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "f8d7370a-bf7e-482a-9fe3-fe3f91dd5ead",
+      "slug": "byblos",
+      "name": "Byblos",
+      "relations": [
+        {
+          "target_site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+          "target_slug": "anjar",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Byblos.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "59c8f76e-308e-4beb-ad8c-760dc883b4c1",
+          "target_slug": "baalbek",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Byblos.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+      "slug": "chartres-cathedral",
+      "name": "Chartres Cathedral",
+      "relations": [
+        {
+          "target_site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+          "target_slug": "mont-saint-michel-and-its-bay",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Chartres Cathedral.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "bae6be72-bec4-415d-b116-0eb18de7805e",
+          "target_slug": "palace-and-park-of-versailles",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Chartres Cathedral.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "f0913cc2-8785-4296-9d86-714c93e077af",
+      "slug": "church-and-dominican-convent-of-santa-maria-delle-grazie-with-the-last-supper-by-leonardo-da-vinci",
+      "name": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+      "relations": [
+        {
+          "target_site_id": "6ddf2ee4-d410-4162-9812-28d27e9af126",
+          "target_slug": "historic-centre-of-rome-the-properties-of-the-holy-see-in-that-city-enjoying-extraterritorial-rights-and-san-paolo-fuori-le-mura",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "c579d621-9ed9-41da-9934-dc30e8f3effb",
+          "target_slug": "rock-drawings-in-valcamonica",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "3e2717d6-214f-4026-9d07-3cc50f47524f",
+      "slug": "churches-and-convents-of-goa",
+      "name": "Churches and Convents of Goa",
+      "relations": [
+        {
+          "target_site_id": "988facb3-ff2a-4a22-b2d6-f5e17dc6f523",
+          "target_slug": "group-of-monuments-at-mahabalipuram",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Churches and Convents of Goa.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "824dbbd6-66e2-447e-ae56-55a85aa4c1ae",
+          "target_slug": "sun-temple-kon-rak",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Churches and Convents of Goa.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+      "slug": "city-of-quito",
+      "name": "City of Quito",
+      "relations": [
+        {
+          "target_site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+          "target_slug": "antigua-guatemala",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as City of Quito.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "6a87f923-1cda-4b50-bcc7-82e21df891ca",
+          "target_slug": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as City of Quito.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "2acdfb7b-a20a-464a-a8fb-38b04f7bc3da",
+      "slug": "city-of-valletta",
+      "name": "City of Valletta",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as City of Valletta.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as City of Valletta.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+      "slug": "fasil-ghebbi-gondar-region",
+      "name": "Fasil Ghebbi, Gondar Region",
+      "relations": [
+        {
+          "target_site_id": "c2268a3b-ba10-4369-8d60-62102e56ea0d",
+          "target_slug": "rock-hewn-churches-lalibela",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Fasil Ghebbi, Gondar Region.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+          "target_slug": "asante-traditional-buildings",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Fasil Ghebbi, Gondar Region.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "4e2b1e04-3754-4878-8da5-ec9f307920f0",
+      "slug": "fort-and-shalamar-gardens-in-lahore",
+      "name": "Fort and Shalamar Gardens in Lahore",
+      "relations": [
+        {
+          "target_site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+          "target_slug": "archaeological-ruins-at-moenjodaro",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Fort and Shalamar Gardens in Lahore.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+          "target_slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Fort and Shalamar Gardens in Lahore.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "6a87f923-1cda-4b50-bcc7-82e21df891ca",
+      "slug": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo",
+      "name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+      "relations": [
+        {
+          "target_site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+          "target_slug": "antigua-guatemala",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+          "target_slug": "city-of-quito",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "0fb8a906-652c-4bb4-9af0-f988aa549196",
+      "slug": "forts-and-castles-volta-greater-accra-central-and-western-regions",
+      "name": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+      "relations": [
+        {
+          "target_site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+          "target_slug": "asante-traditional-buildings",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Forts and Castles, Volta, Greater Accra, Central and Western Regions.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+          "target_slug": "fasil-ghebbi-gondar-region",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Forts and Castles, Volta, Greater Accra, Central and Western Regions.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "988facb3-ff2a-4a22-b2d6-f5e17dc6f523",
+      "slug": "group-of-monuments-at-mahabalipuram",
+      "name": "Group of Monuments at Mahabalipuram",
+      "relations": [
+        {
+          "target_site_id": "3e2717d6-214f-4026-9d07-3cc50f47524f",
+          "target_slug": "churches-and-convents-of-goa",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Group of Monuments at Mahabalipuram.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "824dbbd6-66e2-447e-ae56-55a85aa4c1ae",
+          "target_slug": "sun-temple-kon-rak",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Group of Monuments at Mahabalipuram.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "ba82288b-5cd4-4693-87f3-342e99d36ea0",
+      "slug": "historic-cairo",
+      "name": "Historic Cairo",
+      "relations": [
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Cairo.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "5fd77b31-a004-4f0b-8b01-cad21520cfe1",
+          "target_slug": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Cairo.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "66e7490d-42d7-4539-8de7-f9f03b4445aa",
+      "slug": "historic-centre-of-krak-w",
+      "name": "Historic Centre of Kraków",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Centre of Kraków.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "1ddd8845-d8bf-4a16-9b7a-e670957d39e1",
+          "target_slug": "wieliczka-and-bochnia-royal-salt-mines",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Centre of Kraków.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "6ddf2ee4-d410-4162-9812-28d27e9af126",
+      "slug": "historic-centre-of-rome-the-properties-of-the-holy-see-in-that-city-enjoying-extraterritorial-rights-and-san-paolo-fuori-le-mura",
+      "name": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+      "relations": [
+        {
+          "target_site_id": "f0913cc2-8785-4296-9d86-714c93e077af",
+          "target_slug": "church-and-dominican-convent-of-santa-maria-delle-grazie-with-the-last-supper-by-leonardo-da-vinci",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "c579d621-9ed9-41da-9934-dc30e8f3effb",
+          "target_slug": "rock-drawings-in-valcamonica",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "83cbba48-4f88-4e84-a260-7bc4a0822f18",
+      "slug": "historic-city-of-ayutthaya",
+      "name": "Historic City of Ayutthaya",
+      "relations": [
+        {
+          "target_site_id": "9ced3bac-0ac8-4d43-a06a-2eac401dc2f0",
+          "target_slug": "ban-chiang-archaeological-site",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic City of Ayutthaya.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "bab39af9-e09f-42f8-9067-e883cf6bcef4",
+          "target_slug": "historic-town-of-sukhothai-and-associated-historic-towns",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic City of Ayutthaya.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "b161113b-8674-4d92-ac5b-f329c76beea9",
+      "slug": "historic-mosque-city-of-bagerhat",
+      "name": "Historic Mosque City of Bagerhat",
+      "relations": [
+        {
+          "target_site_id": "2dc90942-6c1b-49f6-ba53-299b85b3a4fd",
+          "target_slug": "ruins-of-the-buddhist-vihara-at-paharpur",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Mosque City of Bagerhat.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Mosque City of Bagerhat.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "e430113b-b814-4882-9681-7684790328f5",
+      "slug": "historic-town-of-ouro-preto",
+      "name": "Historic Town of Ouro Preto",
+      "relations": [
+        {
+          "target_site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+          "target_slug": "antigua-guatemala",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Town of Ouro Preto.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+          "target_slug": "city-of-quito",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Town of Ouro Preto.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "bab39af9-e09f-42f8-9067-e883cf6bcef4",
+      "slug": "historic-town-of-sukhothai-and-associated-historic-towns",
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "relations": [
+        {
+          "target_site_id": "9ced3bac-0ac8-4d43-a06a-2eac401dc2f0",
+          "target_slug": "ban-chiang-archaeological-site",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Town of Sukhothai and Associated Historic Towns.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "83cbba48-4f88-4e84-a260-7bc4a0822f18",
+          "target_slug": "historic-city-of-ayutthaya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historic Town of Sukhothai and Associated Historic Towns.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "361545f3-7bb9-4488-87b3-950254d1fb20",
+      "slug": "historical-complex-of-split-with-the-palace-of-diocletian",
+      "name": "Historical Complex of Split with the Palace of Diocletian",
+      "relations": [
+        {
+          "target_site_id": "2224951e-0608-4a11-b799-2b87358d9d36",
+          "target_slug": "old-city-of-dubrovnik",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historical Complex of Split with the Palace of Diocletian.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historical Complex of Split with the Palace of Diocletian.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "0fd03ab7-ad49-4e21-a829-d68add17baaa",
+      "slug": "historical-monuments-at-makli-thatta",
+      "name": "Historical Monuments at Makli, Thatta",
+      "relations": [
+        {
+          "target_site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+          "target_slug": "archaeological-ruins-at-moenjodaro",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historical Monuments at Makli, Thatta.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+          "target_slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Historical Monuments at Makli, Thatta.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+      "slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+      "name": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+      "relations": [
+        {
+          "target_site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+          "target_slug": "mausoleum-of-the-first-qin-emperor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "de4c3cc9-a844-4397-89c6-a0a3bf047ad2",
+          "target_slug": "mogao-caves",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "b91eae1b-4437-4f86-a3e5-5e7aa6619c30",
+      "slug": "independence-hall",
+      "name": "Independence Hall",
+      "relations": [
+        {
+          "target_site_id": "5aa1723c-f184-4c46-835b-0eaa5b5ca72b",
+          "target_slug": "mesa-verde-national-park",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Independence Hall.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Independence Hall.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "2ee3258c-82f6-4424-93dc-192927de6e2f",
+      "slug": "island-of-gor-e",
+      "name": "Island of Gorée",
+      "relations": [
+        {
+          "target_site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+          "target_slug": "asante-traditional-buildings",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Island of Gorée.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+          "target_slug": "fasil-ghebbi-gondar-region",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Island of Gorée.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "e9f6138c-5583-482a-b46a-6f99502fce6a",
+      "slug": "kathmandu-valley",
+      "name": "Kathmandu Valley",
+      "relations": [
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Kathmandu Valley.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Kathmandu Valley.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "ccb745ed-d994-4625-b79e-77a1a620f2f8",
+      "slug": "l-anse-aux-meadows-national-historic-site",
+      "name": "L’Anse aux Meadows National Historic Site",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as L’Anse aux Meadows National Historic Site.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as L’Anse aux Meadows National Historic Site.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "c48f4425-9857-420c-b120-00d12a28cc2a",
+      "slug": "madara-rider",
+      "name": "Madara Rider",
+      "relations": [
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Madara Rider.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "edddcc38-413e-49a3-9189-ffcc98d348aa",
+          "target_slug": "rock-hewn-churches-of-ivanovo",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Madara Rider.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+      "slug": "mausoleum-of-the-first-qin-emperor",
+      "name": "Mausoleum of the First Qin Emperor",
+      "relations": [
+        {
+          "target_site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+          "target_slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mausoleum of the First Qin Emperor.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "de4c3cc9-a844-4397-89c6-a0a3bf047ad2",
+          "target_slug": "mogao-caves",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mausoleum of the First Qin Emperor.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "5eb639e5-3072-434f-8df7-ff2f174be694",
+      "slug": "maya-site-of-copan",
+      "name": "Maya Site of Copan",
+      "relations": [
+        {
+          "target_site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+          "target_slug": "antigua-guatemala",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Maya Site of Copan.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+          "target_slug": "city-of-quito",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Maya Site of Copan.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "3e0fc817-39b7-4410-be15-4dec10778dfe",
+      "slug": "medina-of-tunis",
+      "name": "Medina of Tunis",
+      "relations": [
+        {
+          "target_site_id": "1aaf0009-ec84-440c-b7ac-d9e30ada530e",
+          "target_slug": "archaeological-site-of-carthage",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Medina of Tunis.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Medina of Tunis.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "46992f9f-61c0-4ee2-8ba6-123cabb46faa",
+      "slug": "meidan-emam-esfahan",
+      "name": "Meidan Emam, Esfahan",
+      "relations": [
+        {
+          "target_site_id": "858206c8-a5b5-49cd-bc7b-bfc681d9be14",
+          "target_slug": "persepolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Meidan Emam, Esfahan.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "26a7b4b3-e9f0-4be4-ae9d-7953fe4df01f",
+          "target_slug": "tchogha-zanbil",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Meidan Emam, Esfahan.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "5fd77b31-a004-4f0b-8b01-cad21520cfe1",
+      "slug": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+      "name": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+      "relations": [
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "ba82288b-5cd4-4693-87f3-342e99d36ea0",
+          "target_slug": "historic-cairo",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "5aa1723c-f184-4c46-835b-0eaa5b5ca72b",
+      "slug": "mesa-verde-national-park",
+      "name": "Mesa Verde National Park",
+      "relations": [
+        {
+          "target_site_id": "b91eae1b-4437-4f86-a3e5-5e7aa6619c30",
+          "target_slug": "independence-hall",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mesa Verde National Park.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mesa Verde National Park.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "de4c3cc9-a844-4397-89c6-a0a3bf047ad2",
+      "slug": "mogao-caves",
+      "name": "Mogao Caves",
+      "relations": [
+        {
+          "target_site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+          "target_slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mogao Caves.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+          "target_slug": "mausoleum-of-the-first-qin-emperor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mogao Caves.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+      "slug": "mont-saint-michel-and-its-bay",
+      "name": "Mont-Saint-Michel and its Bay",
+      "relations": [
+        {
+          "target_site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+          "target_slug": "chartres-cathedral",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mont-Saint-Michel and its Bay.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "bae6be72-bec4-415d-b116-0eb18de7805e",
+          "target_slug": "palace-and-park-of-versailles",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mont-Saint-Michel and its Bay.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "df5346eb-571b-4ade-b2de-a3f827b80896",
+      "slug": "mount-huangshan",
+      "name": "Mount Huangshan",
+      "relations": [
+        {
+          "target_site_id": "63bb128f-df25-4ebc-85cd-edb4dd364789",
+          "target_slug": "mount-taishan",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mount Huangshan.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+          "target_slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mount Huangshan.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "63bb128f-df25-4ebc-85cd-edb4dd364789",
+      "slug": "mount-taishan",
+      "name": "Mount Taishan",
+      "relations": [
+        {
+          "target_site_id": "df5346eb-571b-4ade-b2de-a3f827b80896",
+          "target_slug": "mount-huangshan",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mount Taishan.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+          "target_slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Mount Taishan.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "80da273a-f9e7-46e1-8c62-35e02d54d249",
+      "slug": "natural-and-cultural-heritage-of-the-ohrid-region",
+      "name": "Natural and Cultural Heritage of the Ohrid region",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Natural and Cultural Heritage of the Ohrid region.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Natural and Cultural Heritage of the Ohrid region.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "1a811d1c-b4dc-44a5-9e3d-0949903ccb63",
+      "slug": "natural-and-culturo-historical-region-of-kotor",
+      "name": "Natural and Culturo-Historical Region of Kotor",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Natural and Culturo-Historical Region of Kotor.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Natural and Culturo-Historical Region of Kotor.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "84b91a09-575a-43f3-a340-5b9fc155c63a",
+      "slug": "ngorongoro-conservation-area",
+      "name": "Ngorongoro Conservation Area",
+      "relations": [
+        {
+          "target_site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+          "target_slug": "asante-traditional-buildings",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ngorongoro Conservation Area.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+          "target_slug": "fasil-ghebbi-gondar-region",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ngorongoro Conservation Area.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "329278b4-7e5d-4913-815f-e8bfb3454e2f",
+      "slug": "nubian-monuments-from-abu-simbel-to-philae",
+      "name": "Nubian Monuments from Abu Simbel to Philae",
+      "relations": [
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Nubian Monuments from Abu Simbel to Philae.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "ba82288b-5cd4-4693-87f3-342e99d36ea0",
+          "target_slug": "historic-cairo",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Nubian Monuments from Abu Simbel to Philae.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "2224951e-0608-4a11-b799-2b87358d9d36",
+      "slug": "old-city-of-dubrovnik",
+      "name": "Old City of Dubrovnik",
+      "relations": [
+        {
+          "target_site_id": "361545f3-7bb9-4488-87b3-950254d1fb20",
+          "target_slug": "historical-complex-of-split-with-the-palace-of-diocletian",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Old City of Dubrovnik.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Old City of Dubrovnik.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "590a5e81-c01f-4b66-a4a0-7504cd53e293",
+      "slug": "old-walled-city-of-shibam",
+      "name": "Old Walled City of Shibam",
+      "relations": [
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Old Walled City of Shibam.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+          "target_slug": "anjar",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Old Walled City of Shibam.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "bae6be72-bec4-415d-b116-0eb18de7805e",
+      "slug": "palace-and-park-of-versailles",
+      "name": "Palace and Park of Versailles",
+      "relations": [
+        {
+          "target_site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+          "target_slug": "chartres-cathedral",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Palace and Park of Versailles.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+          "target_slug": "mont-saint-michel-and-its-bay",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Palace and Park of Versailles.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "e1e9c84d-ad18-418d-8fc2-453b33bdff75",
+      "slug": "peking-man-site-at-zhoukoudian",
+      "name": "Peking Man Site at Zhoukoudian",
+      "relations": [
+        {
+          "target_site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+          "target_slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Peking Man Site at Zhoukoudian.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+          "target_slug": "mausoleum-of-the-first-qin-emperor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Peking Man Site at Zhoukoudian.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "858206c8-a5b5-49cd-bc7b-bfc681d9be14",
+      "slug": "persepolis",
+      "name": "Persepolis",
+      "relations": [
+        {
+          "target_site_id": "46992f9f-61c0-4ee2-8ba6-123cabb46faa",
+          "target_slug": "meidan-emam-esfahan",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Persepolis.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "26a7b4b3-e9f0-4be4-ae9d-7953fe4df01f",
+          "target_slug": "tchogha-zanbil",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Persepolis.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "8b0be42c-254e-4c6d-9df9-a9a356ed5eaa",
+      "slug": "prambanan-temple-compounds",
+      "name": "Prambanan Temple Compounds",
+      "relations": [
+        {
+          "target_site_id": "f41a3c29-8017-4392-8a16-69b8eea40a02",
+          "target_slug": "borobudur-temple-compounds",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Prambanan Temple Compounds.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Prambanan Temple Compounds.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "63cbf4fc-d94d-452d-b5e2-a98221098023",
+      "slug": "prehistoric-sites-and-decorated-caves-of-the-v-z-re-valley",
+      "name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+      "relations": [
+        {
+          "target_site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+          "target_slug": "chartres-cathedral",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Prehistoric Sites and Decorated Caves of the Vézère Valley.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+          "target_slug": "mont-saint-michel-and-its-bay",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Prehistoric Sites and Decorated Caves of the Vézère Valley.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "c579d621-9ed9-41da-9934-dc30e8f3effb",
+      "slug": "rock-drawings-in-valcamonica",
+      "name": "Rock Drawings in Valcamonica",
+      "relations": [
+        {
+          "target_site_id": "f0913cc2-8785-4296-9d86-714c93e077af",
+          "target_slug": "church-and-dominican-convent-of-santa-maria-delle-grazie-with-the-last-supper-by-leonardo-da-vinci",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Rock Drawings in Valcamonica.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "6ddf2ee4-d410-4162-9812-28d27e9af126",
+          "target_slug": "historic-centre-of-rome-the-properties-of-the-holy-see-in-that-city-enjoying-extraterritorial-rights-and-san-paolo-fuori-le-mura",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Rock Drawings in Valcamonica.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "edddcc38-413e-49a3-9189-ffcc98d348aa",
+      "slug": "rock-hewn-churches-of-ivanovo",
+      "name": "Rock-Hewn Churches of Ivanovo",
+      "relations": [
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Rock-Hewn Churches of Ivanovo.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "c48f4425-9857-420c-b120-00d12a28cc2a",
+          "target_slug": "madara-rider",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Rock-Hewn Churches of Ivanovo.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "c2268a3b-ba10-4369-8d60-62102e56ea0d",
+      "slug": "rock-hewn-churches-lalibela",
+      "name": "Rock-Hewn Churches, Lalibela",
+      "relations": [
+        {
+          "target_site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+          "target_slug": "fasil-ghebbi-gondar-region",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Rock-Hewn Churches, Lalibela.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+          "target_slug": "asante-traditional-buildings",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Rock-Hewn Churches, Lalibela.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "2dc90942-6c1b-49f6-ba53-299b85b3a4fd",
+      "slug": "ruins-of-the-buddhist-vihara-at-paharpur",
+      "name": "Ruins of the Buddhist Vihara at Paharpur",
+      "relations": [
+        {
+          "target_site_id": "b161113b-8674-4d92-ac5b-f329c76beea9",
+          "target_slug": "historic-mosque-city-of-bagerhat",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ruins of the Buddhist Vihara at Paharpur.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Ruins of the Buddhist Vihara at Paharpur.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "3af24907-27cc-4f38-8e92-49356c3e1126",
+      "slug": "sacred-city-of-anuradhapura",
+      "name": "Sacred City of Anuradhapura",
+      "relations": [
+        {
+          "target_site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Sacred City of Anuradhapura.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Sacred City of Anuradhapura.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "0e4f2653-a47e-44ea-9501-775687b45da4",
+      "slug": "site-of-palmyra",
+      "name": "Site of Palmyra",
+      "relations": [
+        {
+          "target_site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Site of Palmyra.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+          "target_slug": "anjar",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Site of Palmyra.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "356b85d7-e754-4ff2-a685-7972e4df9dd2",
+      "slug": "stari-ras-and-sopo-ani",
+      "name": "Stari Ras and Sopoćani",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Stari Ras and Sopoćani.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Stari Ras and Sopoćani.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "824dbbd6-66e2-447e-ae56-55a85aa4c1ae",
+      "slug": "sun-temple-kon-rak",
+      "name": "Sun Temple, Konârak",
+      "relations": [
+        {
+          "target_site_id": "3e2717d6-214f-4026-9d07-3cc50f47524f",
+          "target_slug": "churches-and-convents-of-goa",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Sun Temple, Konârak.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "988facb3-ff2a-4a22-b2d6-f5e17dc6f523",
+          "target_slug": "group-of-monuments-at-mahabalipuram",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Sun Temple, Konârak.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "7bb04299-5c62-4a8c-bd9a-1112ba28bfc7",
+      "slug": "taxila",
+      "name": "Taxila",
+      "relations": [
+        {
+          "target_site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+          "target_slug": "archaeological-ruins-at-moenjodaro",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Taxila.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+          "target_slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Taxila.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "26a7b4b3-e9f0-4be4-ae9d-7953fe4df01f",
+      "slug": "tchogha-zanbil",
+      "name": "Tchogha Zanbil",
+      "relations": [
+        {
+          "target_site_id": "46992f9f-61c0-4ee2-8ba6-123cabb46faa",
+          "target_slug": "meidan-emam-esfahan",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Tchogha Zanbil.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "858206c8-a5b5-49cd-bc7b-bfc681d9be14",
+          "target_slug": "persepolis",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Tchogha Zanbil.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "bdba12d3-5acf-418e-a121-4f67ec09641a",
+      "slug": "the-great-wall",
+      "name": "The Great Wall",
+      "relations": [
+        {
+          "target_site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+          "target_slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as The Great Wall.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+          "target_slug": "mausoleum-of-the-first-qin-emperor",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as The Great Wall.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "7a541af3-5070-4ca4-ad17-57069cf69db6",
+      "slug": "thracian-tomb-of-kazanlak",
+      "name": "Thracian Tomb of Kazanlak",
+      "relations": [
+        {
+          "target_site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+          "target_slug": "boyana-church",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Thracian Tomb of Kazanlak.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "c48f4425-9857-420c-b120-00d12a28cc2a",
+          "target_slug": "madara-rider",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Thracian Tomb of Kazanlak.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "a66777b9-d806-4aeb-81e3-ecaefe1949f0",
+      "slug": "tikal-national-park",
+      "name": "Tikal National Park",
+      "relations": [
+        {
+          "target_site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+          "target_slug": "antigua-guatemala",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Tikal National Park.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+          "target_slug": "city-of-quito",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Tikal National Park.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "1bdf556e-84ea-4fb4-80fb-d771211b2a19",
+      "slug": "urnes-stave-church",
+      "name": "Urnes Stave Church",
+      "relations": [
+        {
+          "target_site_id": "75a8b9f4-a2a8-4e46-9168-f98e9285e5af",
+          "target_slug": "bryggen",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Urnes Stave Church.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Urnes Stave Church.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "77e4d491-f38b-40cf-b9a0-bb95fe36c84b",
+      "slug": "v-zelay-church-and-hill",
+      "name": "Vézelay, Church and Hill",
+      "relations": [
+        {
+          "target_site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+          "target_slug": "chartres-cathedral",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Vézelay, Church and Hill.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+          "target_slug": "mont-saint-michel-and-its-bay",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Vézelay, Church and Hill.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "1ddd8845-d8bf-4a16-9b7a-e670957d39e1",
+      "slug": "wieliczka-and-bochnia-royal-salt-mines",
+      "name": "Wieliczka and Bochnia Royal Salt Mines",
+      "relations": [
+        {
+          "target_site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+          "target_slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Wieliczka and Bochnia Royal Salt Mines.",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "66e7490d-42d7-4539-8de7-f9f03b4445aa",
+          "target_slug": "historic-centre-of-krak-w",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Wieliczka and Bochnia Royal Salt Mines.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+      "slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+      "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+      "relations": [
+        {
+          "target_site_id": "66e7490d-42d7-4539-8de7-f9f03b4445aa",
+          "target_slug": "historic-centre-of-krak-w",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945).",
+          "display_order": 1
+        },
+        {
+          "target_site_id": "1ddd8845-d8bf-4a16-9b7a-e670957d39e1",
+          "target_slug": "wieliczka-and-bochnia-royal-salt-mines",
+          "relation_type": "RELATED_TO",
+          "description": "Related UNESCO World Heritage property in the same geographic or cultural context as Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945).",
+          "display_order": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+﻿================================================================================
+ID           : 231
+NAME         : Red Fort Complex
+COUNTRY      : None
+DATE         : 2007
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/109222
+================================================================================
+ID           : 668
+NAME         : Angkor
+COUNTRY      : None
+DATE         : 1992
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/127038
+================================================================================
+ID           : 404
+NAME         : Acropolis, Athens
+COUNTRY      : None
+DATE         : 1987
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/111380
+================================================================================
+ID           : 250
+NAME         : Great Living Chola Temples
+COUNTRY      : None
+DATE         : 1987
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : None
+================================================================================
+ID           : 241
+NAME         : Group of Monuments at Hampi
+COUNTRY      : None
+DATE         : 1986
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/109283
+================================================================================
+ID           : 246
+NAME         : Sun Temple, KonΓrak
+COUNTRY      : None
+DATE         : 1984
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/125151
+================================================================================
+ID           : 274
+NAME         : Historic Sanctuary of Machu Picchu
+COUNTRY      : None
+DATE         : 1983
+CATEGORY     : Mixed
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/209537
+================================================================================
+ID           : 31
+NAME         : Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>
+COUNTRY      : None
+DATE         : 1979
+CATEGORY     : Cultural
+LATITUDE     : None
+LONGITUDE    : None
+DESCRIPTION  : None
+UUID         : None
+IMAGE URL    : https://whc.unesco.org/document/107824

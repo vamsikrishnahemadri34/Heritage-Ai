@@ -1,43 +1,150 @@
-import { Stack, useSegments, useRouter } from "expo-router";
-import { useEffect } from "react";
+﻿import React, { useEffect, useRef, useState } from "react";
+import { Animated, Image, StyleSheet, Text, View } from "react-native";
+import * as SplashScreen from "expo-splash-screen";
+import { Stack } from "expo-router";
 
-import { useAuthStore } from "@/store/auth-store";
+void SplashScreen.preventAutoHideAsync();
 
-export default function RootLayout() {
-  const status = useAuthStore((state) => state.status);
-  const initialize = useAuthStore((state) => state.initialize);
-
-  const segments = useSegments();
-  const router = useRouter();
+function HeritageAISplash({
+  onComplete,
+}: {
+  onComplete: () => void;
+}) {
+  const opacity = useRef(new Animated.Value(0)).current;
+  const scale = useRef(new Animated.Value(0.82)).current;
+  const taglineOpacity = useRef(new Animated.Value(0)).current;
+  const exitOpacity = useRef(new Animated.Value(1)).current;
 
   useEffect(() => {
-    void initialize();
-  }, [initialize]);
+    const animation = Animated.sequence([
+      Animated.parallel([
+        Animated.timing(opacity, {
+          toValue: 1,
+          duration: 700,
+          useNativeDriver: true,
+        }),
+        Animated.spring(scale, {
+          toValue: 1,
+          friction: 7,
+          tension: 45,
+          useNativeDriver: true,
+        }),
+      ]),
+      Animated.timing(taglineOpacity, {
+        toValue: 1,
+        duration: 500,
+        useNativeDriver: true,
+      }),
+      Animated.delay(900),
+      Animated.timing(exitOpacity, {
+        toValue: 0,
+        duration: 500,
+        useNativeDriver: true,
+      }),
+    ]);
 
-  useEffect(() => {
-    if (status === "loading") {
-      return;
-    }
+    animation.start(({ finished }) => {
+      if (finished) {
+        onComplete();
+      }
+    });
 
-    const firstSegment = segments[0];
-
-    const inAuthGroup = firstSegment === "(auth)";
-    const inAppGroup = firstSegment === "(app)";
-
-    if (status === "unauthenticated" && !inAuthGroup) {
-      router.replace("/(auth)/login");
-      return;
-    }
-
-    if (status === "authenticated" && !inAppGroup) {
-      router.replace("/(app)");
-    }
-  }, [status, segments, router]);
+    return () => animation.stop();
+  }, [exitOpacity, opacity, scale, taglineOpacity, onComplete]);
 
   return (
-    <Stack screenOptions={{ headerShown: false }}>
-      <Stack.Screen name="(auth)" />
-      <Stack.Screen name="(app)" />
-    </Stack>
+    <Animated.View
+      style={[
+        styles.splash,
+        {
+          opacity: exitOpacity,
+        },
+      ]}
+    >
+      <Animated.View
+        style={{
+          alignItems: "center",
+          opacity,
+          transform: [{ scale }],
+        }}
+      >
+        <Image
+          source={require("../../assets/icon.png")}
+          style={styles.logo}
+          resizeMode="contain"
+        />
+
+        <Text style={styles.brand}>HERITAGEAI</Text>
+
+        <View style={styles.divider} />
+
+        <Animated.Text
+          style={[
+            styles.tagline,
+            {
+              opacity: taglineOpacity,
+            },
+          ]}
+        >
+          Discover. Understand. Preserve.
+        </Animated.Text>
+      </Animated.View>
+    </Animated.View>
   );
 }
+
+export default function RootLayout() {
+  const [showSplash, setShowSplash] = useState(true);
+
+  const completeSplash = React.useCallback(async () => {
+    setShowSplash(false);
+    await SplashScreen.hideAsync();
+  }, []);
+
+  return (
+    <>
+      <Stack
+        screenOptions={{
+          headerShown: false,
+        }}
+      />
+
+      {showSplash && <HeritageAISplash onComplete={completeSplash} />}
+    </>
+  );
+}
+
+const styles = StyleSheet.create({
+  splash: {
+    ...StyleSheet.absoluteFill,
+    zIndex: 9999,
+    backgroundColor: "#0B0907",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  logo: {
+    width: 150,
+    height: 150,
+  },
+  brand: {
+    marginTop: 10,
+    fontSize: 18,
+    fontWeight: "700",
+    letterSpacing: 4,
+    color: "#E7B94A",
+  },
+  divider: {
+    width: 52,
+    height: 1,
+    marginTop: 16,
+    marginBottom: 14,
+    backgroundColor: "#E7B94A",
+  },
+  tagline: {
+    fontSize: 12,
+    letterSpacing: 1.4,
+    color: "#C7BDAA",
+  },
+});
+
+

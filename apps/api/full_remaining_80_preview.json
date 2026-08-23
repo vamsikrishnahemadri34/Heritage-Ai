@@ -1,0 +1,2325 @@
+{
+  "batch": "FULL_REMAINING_80",
+  "sites": [
+    {
+      "site_id": "d74968ba-ece2-4c05-ad86-6c74952c5418",
+      "slug": "ancient-city-of-sigiriya",
+      "name": "Ancient City of Sigiriya",
+      "unesco_id": "202",
+      "unesco_name": "Ancient City of Sigiriya",
+      "date_inscribed": "1982",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Ancient City of Sigiriya",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Ancient City of Sigiriya",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "94aa8787-036f-45cb-87c5-a6b03c7cb3e8",
+      "slug": "ancient-thebes-with-its-necropolis",
+      "name": "Ancient Thebes with its Necropolis",
+      "unesco_id": "87",
+      "unesco_name": "Ancient Thebes with its Necropolis",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Ancient Thebes with its Necropolis",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Ancient Thebes with its Necropolis",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "08482632-80d1-4834-b4f0-03bcff61c761",
+      "slug": "angkor",
+      "name": "Angkor",
+      "unesco_id": "668",
+      "unesco_name": "Angkor",
+      "date_inscribed": "1992",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Angkor",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Angkor",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "8a53fad9-c20a-49e1-9b98-af80a6b857d6",
+      "slug": "anjar",
+      "name": "Anjar",
+      "unesco_id": "293",
+      "unesco_name": "Anjar",
+      "date_inscribed": "1984",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Anjar",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Anjar",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "cd6ac770-f93d-4669-bc13-99e6408b23e4",
+      "slug": "antigua-guatemala",
+      "name": "Antigua Guatemala",
+      "unesco_id": "65",
+      "unesco_name": "Antigua Guatemala",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Antigua Guatemala",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Antigua Guatemala",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "a8a24a2d-74cb-428c-aa1f-bec424c3115a",
+      "slug": "archaeological-ruins-at-moenjodaro",
+      "name": "Archaeological Ruins at Moenjodaro",
+      "unesco_id": "138",
+      "unesco_name": "Archaeological Ruins at Moenjodaro",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Archaeological Ruins at Moenjodaro",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Archaeological Ruins at Moenjodaro",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "1aaf0009-ec84-440c-b7ac-d9e30ada530e",
+      "slug": "archaeological-site-of-carthage",
+      "name": "Archaeological Site of Carthage",
+      "unesco_id": "37",
+      "unesco_name": "Archaeological Site of Carthage",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Archaeological Site of Carthage",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Archaeological Site of Carthage",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "47472fa1-a662-4112-bcae-8cda8591e86c",
+      "slug": "asante-traditional-buildings",
+      "name": "Asante Traditional Buildings",
+      "unesco_id": "35",
+      "unesco_name": "Asante Traditional Buildings",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Asante Traditional Buildings",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Asante Traditional Buildings",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "59c8f76e-308e-4beb-ad8c-760dc883b4c1",
+      "slug": "baalbek",
+      "name": "Baalbek",
+      "unesco_id": "294",
+      "unesco_name": "Baalbek",
+      "date_inscribed": "1984",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Baalbek",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Baalbek",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "9ced3bac-0ac8-4d43-a06a-2eac401dc2f0",
+      "slug": "ban-chiang-archaeological-site",
+      "name": "Ban Chiang Archaeological Site",
+      "unesco_id": "575",
+      "unesco_name": "Ban Chiang Archaeological Site",
+      "date_inscribed": "1992",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Ban Chiang Archaeological Site",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Ban Chiang Archaeological Site",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "52b0999a-49a8-4184-b34b-3f669ae796f4",
+      "slug": "baroque-churches-of-the-philippines",
+      "name": "Baroque Churches of the Philippines",
+      "unesco_id": "677",
+      "unesco_name": "Baroque Churches of the Philippines",
+      "date_inscribed": "1993",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Baroque Churches of the Philippines",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Baroque Churches of the Philippines",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "f41a3c29-8017-4392-8a16-69b8eea40a02",
+      "slug": "borobudur-temple-compounds",
+      "name": "Borobudur Temple Compounds",
+      "unesco_id": "592",
+      "unesco_name": "Borobudur Temple Compounds",
+      "date_inscribed": "1991",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Borobudur Temple Compounds",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Borobudur Temple Compounds",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "4626f62c-2dd3-42b5-ac84-1be4a4195678",
+      "slug": "boyana-church",
+      "name": "Boyana Church",
+      "unesco_id": "42",
+      "unesco_name": "Boyana Church",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Boyana Church",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Boyana Church",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "75a8b9f4-a2a8-4e46-9168-f98e9285e5af",
+      "slug": "bryggen",
+      "name": "Bryggen",
+      "unesco_id": "59",
+      "unesco_name": "Bryggen",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Bryggen",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Bryggen",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "ee583165-6821-49ab-ada7-ecddd26d440c",
+      "slug": "buddhist-monuments-in-the-horyu-ji-area",
+      "name": "Buddhist Monuments in the Horyu-ji Area",
+      "unesco_id": "660",
+      "unesco_name": "Buddhist Monuments in the Horyu-ji Area",
+      "date_inscribed": "1993",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Buddhist Monuments in the Horyu-ji Area",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Buddhist Monuments in the Horyu-ji Area",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "0cb51ef7-d463-4094-a6f6-32dc8dcf5d28",
+      "slug": "buddhist-ruins-of-takht-i-bahi-and-neighbouring-city-remains-at-sahr-i-bahlol",
+      "name": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+      "unesco_id": "140",
+      "unesco_name": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "f8d7370a-bf7e-482a-9fe3-fe3f91dd5ead",
+      "slug": "byblos",
+      "name": "Byblos",
+      "unesco_id": "295",
+      "unesco_name": "Byblos",
+      "date_inscribed": "1984",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Byblos",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Byblos",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "c4a35c23-26a0-4057-8cca-7f3093c32e3c",
+      "slug": "chartres-cathedral",
+      "name": "Chartres Cathedral",
+      "unesco_id": "81",
+      "unesco_name": "Chartres Cathedral",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Chartres Cathedral",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Chartres Cathedral",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "f0913cc2-8785-4296-9d86-714c93e077af",
+      "slug": "church-and-dominican-convent-of-santa-maria-delle-grazie-with-the-last-supper-by-leonardo-da-vinci",
+      "name": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+      "unesco_id": "93",
+      "unesco_name": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "3e2717d6-214f-4026-9d07-3cc50f47524f",
+      "slug": "churches-and-convents-of-goa",
+      "name": "Churches and Convents of Goa",
+      "unesco_id": "234",
+      "unesco_name": "Churches and Convents of Goa",
+      "date_inscribed": "1986",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Churches and Convents of Goa",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Churches and Convents of Goa",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "e21eca59-4657-4c72-86d0-1f1df2a45e7a",
+      "slug": "city-of-quito",
+      "name": "City of Quito",
+      "unesco_id": "2",
+      "unesco_name": "City of Quito",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — City of Quito",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — City of Quito",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "2acdfb7b-a20a-464a-a8fb-38b04f7bc3da",
+      "slug": "city-of-valletta",
+      "name": "City of Valletta",
+      "unesco_id": "131",
+      "unesco_name": "City of Valletta",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — City of Valletta",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — City of Valletta",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "d8bd0880-3f34-4d7c-b604-2268f21f7ec0",
+      "slug": "fasil-ghebbi-gondar-region",
+      "name": "Fasil Ghebbi, Gondar Region",
+      "unesco_id": "19",
+      "unesco_name": "Fasil Ghebbi, Gondar Region",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Fasil Ghebbi, Gondar Region",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Fasil Ghebbi, Gondar Region",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "4e2b1e04-3754-4878-8da5-ec9f307920f0",
+      "slug": "fort-and-shalamar-gardens-in-lahore",
+      "name": "Fort and Shalamar Gardens in Lahore",
+      "unesco_id": "171",
+      "unesco_name": "Fort and Shalamar Gardens in Lahore",
+      "date_inscribed": "1981",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Fort and Shalamar Gardens in Lahore",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Fort and Shalamar Gardens in Lahore",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "6a87f923-1cda-4b50-bcc7-82e21df891ca",
+      "slug": "fortifications-on-the-caribbean-side-of-panama-portobelo-san-lorenzo",
+      "name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+      "unesco_id": "135",
+      "unesco_name": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "0fb8a906-652c-4bb4-9af0-f988aa549196",
+      "slug": "forts-and-castles-volta-greater-accra-central-and-western-regions",
+      "name": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+      "unesco_id": "34",
+      "unesco_name": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "988facb3-ff2a-4a22-b2d6-f5e17dc6f523",
+      "slug": "group-of-monuments-at-mahabalipuram",
+      "name": "Group of Monuments at Mahabalipuram",
+      "unesco_id": "249",
+      "unesco_name": "Group of Monuments at Mahabalipuram",
+      "date_inscribed": "1984",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Group of Monuments at Mahabalipuram",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Group of Monuments at Mahabalipuram",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "ba82288b-5cd4-4693-87f3-342e99d36ea0",
+      "slug": "historic-cairo",
+      "name": "Historic Cairo",
+      "unesco_id": "89",
+      "unesco_name": "Historic Cairo",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic Cairo",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic Cairo",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "66e7490d-42d7-4539-8de7-f9f03b4445aa",
+      "slug": "historic-centre-of-krak-w",
+      "name": "Historic Centre of Kraków",
+      "unesco_id": "29",
+      "unesco_name": "Historic Centre of Kraków",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic Centre of Kraków",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic Centre of Kraków",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "6ddf2ee4-d410-4162-9812-28d27e9af126",
+      "slug": "historic-centre-of-rome-the-properties-of-the-holy-see-in-that-city-enjoying-extraterritorial-rights-and-san-paolo-fuori-le-mura",
+      "name": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+      "unesco_id": "91",
+      "unesco_name": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "83cbba48-4f88-4e84-a260-7bc4a0822f18",
+      "slug": "historic-city-of-ayutthaya",
+      "name": "Historic City of Ayutthaya",
+      "unesco_id": "576",
+      "unesco_name": "Historic City of Ayutthaya",
+      "date_inscribed": "1991",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic City of Ayutthaya",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic City of Ayutthaya",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "b161113b-8674-4d92-ac5b-f329c76beea9",
+      "slug": "historic-mosque-city-of-bagerhat",
+      "name": "Historic Mosque City of Bagerhat",
+      "unesco_id": "321",
+      "unesco_name": "Historic Mosque City of Bagerhat",
+      "date_inscribed": "1985",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic Mosque City of Bagerhat",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic Mosque City of Bagerhat",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "e430113b-b814-4882-9681-7684790328f5",
+      "slug": "historic-town-of-ouro-preto",
+      "name": "Historic Town of Ouro Preto",
+      "unesco_id": "124",
+      "unesco_name": "Historic Town of Ouro Preto",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic Town of Ouro Preto",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic Town of Ouro Preto",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "bab39af9-e09f-42f8-9067-e883cf6bcef4",
+      "slug": "historic-town-of-sukhothai-and-associated-historic-towns",
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "unesco_id": "574",
+      "unesco_name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "date_inscribed": "1991",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historic Town of Sukhothai and Associated Historic Towns",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historic Town of Sukhothai and Associated Historic Towns",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "361545f3-7bb9-4488-87b3-950254d1fb20",
+      "slug": "historical-complex-of-split-with-the-palace-of-diocletian",
+      "name": "Historical Complex of Split with the Palace of Diocletian",
+      "unesco_id": "97",
+      "unesco_name": "Historical Complex of Split with the Palace of Diocletian",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historical Complex of Split with the Palace of Diocletian",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historical Complex of Split with the Palace of Diocletian",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "0fd03ab7-ad49-4e21-a829-d68add17baaa",
+      "slug": "historical-monuments-at-makli-thatta",
+      "name": "Historical Monuments at Makli, Thatta",
+      "unesco_id": "143",
+      "unesco_name": "Historical Monuments at Makli, Thatta",
+      "date_inscribed": "1981",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Historical Monuments at Makli, Thatta",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Historical Monuments at Makli, Thatta",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "31e7f1e8-4c3c-405a-9fa0-ee12dd5d78a0",
+      "slug": "imperial-palaces-of-the-ming-and-qing-dynasties-in-beijing-and-shenyang",
+      "name": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+      "unesco_id": "439",
+      "unesco_name": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+      "date_inscribed": "1987",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "b91eae1b-4437-4f86-a3e5-5e7aa6619c30",
+      "slug": "independence-hall",
+      "name": "Independence Hall",
+      "unesco_id": "78",
+      "unesco_name": "Independence Hall",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Independence Hall",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Independence Hall",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "2ee3258c-82f6-4424-93dc-192927de6e2f",
+      "slug": "island-of-gor-e",
+      "name": "Island of Gorée",
+      "unesco_id": "26",
+      "unesco_name": "Island of Gorée",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Island of Gorée",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Island of Gorée",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "e9f6138c-5583-482a-b46a-6f99502fce6a",
+      "slug": "kathmandu-valley",
+      "name": "Kathmandu Valley",
+      "unesco_id": "121",
+      "unesco_name": "Kathmandu Valley",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Kathmandu Valley",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Kathmandu Valley",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "ccb745ed-d994-4625-b79e-77a1a620f2f8",
+      "slug": "l-anse-aux-meadows-national-historic-site",
+      "name": "L’Anse aux Meadows National Historic Site",
+      "unesco_id": "4",
+      "unesco_name": "L’Anse aux Meadows National Historic Site",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — L’Anse aux Meadows National Historic Site",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — L’Anse aux Meadows National Historic Site",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "c48f4425-9857-420c-b120-00d12a28cc2a",
+      "slug": "madara-rider",
+      "name": "Madara Rider",
+      "unesco_id": "43",
+      "unesco_name": "Madara Rider",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Madara Rider",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Madara Rider",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "18cfbdab-20ad-4371-87e0-971ec9bc1781",
+      "slug": "mausoleum-of-the-first-qin-emperor",
+      "name": "Mausoleum of the First Qin Emperor",
+      "unesco_id": "441",
+      "unesco_name": "Mausoleum of the First Qin Emperor",
+      "date_inscribed": "1987",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Mausoleum of the First Qin Emperor",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Mausoleum of the First Qin Emperor",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "5eb639e5-3072-434f-8df7-ff2f174be694",
+      "slug": "maya-site-of-copan",
+      "name": "Maya Site of Copan",
+      "unesco_id": "129",
+      "unesco_name": "Maya Site of Copan",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Maya Site of Copan",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Maya Site of Copan",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "3e0fc817-39b7-4410-be15-4dec10778dfe",
+      "slug": "medina-of-tunis",
+      "name": "Medina of Tunis",
+      "unesco_id": "36",
+      "unesco_name": "Medina of Tunis",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Medina of Tunis",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Medina of Tunis",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "46992f9f-61c0-4ee2-8ba6-123cabb46faa",
+      "slug": "meidan-emam-esfahan",
+      "name": "Meidan Emam, Esfahan",
+      "unesco_id": "115",
+      "unesco_name": "Meidan Emam, Esfahan",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Meidan Emam, Esfahan",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Meidan Emam, Esfahan",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "5fd77b31-a004-4f0b-8b01-cad21520cfe1",
+      "slug": "memphis-and-its-necropolis-the-pyramid-fields-from-giza-to-dahshur",
+      "name": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+      "unesco_id": "86",
+      "unesco_name": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "5aa1723c-f184-4c46-835b-0eaa5b5ca72b",
+      "slug": "mesa-verde-national-park",
+      "name": "Mesa Verde National Park",
+      "unesco_id": "27",
+      "unesco_name": "Mesa Verde National Park",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Mesa Verde National Park",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Mesa Verde National Park",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "de4c3cc9-a844-4397-89c6-a0a3bf047ad2",
+      "slug": "mogao-caves",
+      "name": "Mogao Caves",
+      "unesco_id": "440",
+      "unesco_name": "Mogao Caves",
+      "date_inscribed": "1987",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Mogao Caves",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Mogao Caves",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "6d0de01b-bb6a-47d7-9ee4-1b543704bf49",
+      "slug": "mont-saint-michel-and-its-bay",
+      "name": "Mont-Saint-Michel and its Bay",
+      "unesco_id": "80",
+      "unesco_name": "Mont-Saint-Michel and its Bay",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Mont-Saint-Michel and its Bay",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Mont-Saint-Michel and its Bay",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "df5346eb-571b-4ade-b2de-a3f827b80896",
+      "slug": "mount-huangshan",
+      "name": "Mount Huangshan",
+      "unesco_id": "547",
+      "unesco_name": "Mount Huangshan",
+      "date_inscribed": "1990",
+      "category": "Mixed",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Mount Huangshan",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Mount Huangshan",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "63bb128f-df25-4ebc-85cd-edb4dd364789",
+      "slug": "mount-taishan",
+      "name": "Mount Taishan",
+      "unesco_id": "437",
+      "unesco_name": "Mount Taishan",
+      "date_inscribed": "1987",
+      "category": "Mixed",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Mount Taishan",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Mount Taishan",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "80da273a-f9e7-46e1-8c62-35e02d54d249",
+      "slug": "natural-and-cultural-heritage-of-the-ohrid-region",
+      "name": "Natural and Cultural Heritage of the Ohrid region",
+      "unesco_id": "99",
+      "unesco_name": "Natural and Cultural Heritage of the Ohrid region",
+      "date_inscribed": "1979",
+      "category": "Mixed",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Natural and Cultural Heritage of the Ohrid region",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Natural and Cultural Heritage of the Ohrid region",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "1a811d1c-b4dc-44a5-9e3d-0949903ccb63",
+      "slug": "natural-and-culturo-historical-region-of-kotor",
+      "name": "Natural and Culturo-Historical Region of Kotor",
+      "unesco_id": "125",
+      "unesco_name": "Natural and Culturo-Historical Region of Kotor",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Natural and Culturo-Historical Region of Kotor",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Natural and Culturo-Historical Region of Kotor",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "84b91a09-575a-43f3-a340-5b9fc155c63a",
+      "slug": "ngorongoro-conservation-area",
+      "name": "Ngorongoro Conservation Area",
+      "unesco_id": "39",
+      "unesco_name": "Ngorongoro Conservation Area",
+      "date_inscribed": "1979",
+      "category": "Mixed",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Ngorongoro Conservation Area",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Ngorongoro Conservation Area",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "329278b4-7e5d-4913-815f-e8bfb3454e2f",
+      "slug": "nubian-monuments-from-abu-simbel-to-philae",
+      "name": "Nubian Monuments from Abu Simbel to Philae",
+      "unesco_id": "88",
+      "unesco_name": "Nubian Monuments from Abu Simbel to Philae",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Nubian Monuments from Abu Simbel to Philae",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Nubian Monuments from Abu Simbel to Philae",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "2224951e-0608-4a11-b799-2b87358d9d36",
+      "slug": "old-city-of-dubrovnik",
+      "name": "Old City of Dubrovnik",
+      "unesco_id": "95",
+      "unesco_name": "Old City of Dubrovnik",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Old City of Dubrovnik",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Old City of Dubrovnik",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "590a5e81-c01f-4b66-a4a0-7504cd53e293",
+      "slug": "old-walled-city-of-shibam",
+      "name": "Old Walled City of Shibam",
+      "unesco_id": "192",
+      "unesco_name": "Old Walled City of Shibam",
+      "date_inscribed": "1982",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Old Walled City of Shibam",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Old Walled City of Shibam",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "bae6be72-bec4-415d-b116-0eb18de7805e",
+      "slug": "palace-and-park-of-versailles",
+      "name": "Palace and Park of Versailles",
+      "unesco_id": "83",
+      "unesco_name": "Palace and Park of Versailles",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Palace and Park of Versailles",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Palace and Park of Versailles",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "e1e9c84d-ad18-418d-8fc2-453b33bdff75",
+      "slug": "peking-man-site-at-zhoukoudian",
+      "name": "Peking Man Site at Zhoukoudian",
+      "unesco_id": "449",
+      "unesco_name": "Peking Man Site at Zhoukoudian",
+      "date_inscribed": "1987",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Peking Man Site at Zhoukoudian",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Peking Man Site at Zhoukoudian",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "858206c8-a5b5-49cd-bc7b-bfc681d9be14",
+      "slug": "persepolis",
+      "name": "Persepolis",
+      "unesco_id": "114",
+      "unesco_name": "Persepolis",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Persepolis",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Persepolis",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "8b0be42c-254e-4c6d-9df9-a9a356ed5eaa",
+      "slug": "prambanan-temple-compounds",
+      "name": "Prambanan Temple Compounds",
+      "unesco_id": "642",
+      "unesco_name": "Prambanan Temple Compounds",
+      "date_inscribed": "1991",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Prambanan Temple Compounds",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Prambanan Temple Compounds",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "63cbf4fc-d94d-452d-b5e2-a98221098023",
+      "slug": "prehistoric-sites-and-decorated-caves-of-the-v-z-re-valley",
+      "name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+      "unesco_id": "85",
+      "unesco_name": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Prehistoric Sites and Decorated Caves of the Vézère Valley",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Prehistoric Sites and Decorated Caves of the Vézère Valley",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "c579d621-9ed9-41da-9934-dc30e8f3effb",
+      "slug": "rock-drawings-in-valcamonica",
+      "name": "Rock Drawings in Valcamonica",
+      "unesco_id": "94",
+      "unesco_name": "Rock Drawings in Valcamonica",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Rock Drawings in Valcamonica",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Rock Drawings in Valcamonica",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "edddcc38-413e-49a3-9189-ffcc98d348aa",
+      "slug": "rock-hewn-churches-of-ivanovo",
+      "name": "Rock-Hewn Churches of Ivanovo",
+      "unesco_id": "45",
+      "unesco_name": "Rock-Hewn Churches of Ivanovo",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Rock-Hewn Churches of Ivanovo",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Rock-Hewn Churches of Ivanovo",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "c2268a3b-ba10-4369-8d60-62102e56ea0d",
+      "slug": "rock-hewn-churches-lalibela",
+      "name": "Rock-Hewn Churches, Lalibela",
+      "unesco_id": "18",
+      "unesco_name": "Rock-Hewn Churches, Lalibela",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Rock-Hewn Churches, Lalibela",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Rock-Hewn Churches, Lalibela",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "2dc90942-6c1b-49f6-ba53-299b85b3a4fd",
+      "slug": "ruins-of-the-buddhist-vihara-at-paharpur",
+      "name": "Ruins of the Buddhist Vihara at Paharpur",
+      "unesco_id": "322",
+      "unesco_name": "Ruins of the Buddhist Vihara at Paharpur",
+      "date_inscribed": "1985",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Ruins of the Buddhist Vihara at Paharpur",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Ruins of the Buddhist Vihara at Paharpur",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "3af24907-27cc-4f38-8e92-49356c3e1126",
+      "slug": "sacred-city-of-anuradhapura",
+      "name": "Sacred City of Anuradhapura",
+      "unesco_id": "200",
+      "unesco_name": "Sacred City of Anuradhapura",
+      "date_inscribed": "1982",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Sacred City of Anuradhapura",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Sacred City of Anuradhapura",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "0e4f2653-a47e-44ea-9501-775687b45da4",
+      "slug": "site-of-palmyra",
+      "name": "Site of Palmyra",
+      "unesco_id": "23",
+      "unesco_name": "Site of Palmyra",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Site of Palmyra",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Site of Palmyra",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "356b85d7-e754-4ff2-a685-7972e4df9dd2",
+      "slug": "stari-ras-and-sopo-ani",
+      "name": "Stari Ras and Sopoćani",
+      "unesco_id": "96",
+      "unesco_name": "Stari Ras and Sopoćani",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Stari Ras and Sopoćani",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Stari Ras and Sopoćani",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "824dbbd6-66e2-447e-ae56-55a85aa4c1ae",
+      "slug": "sun-temple-kon-rak",
+      "name": "Sun Temple, Konârak",
+      "unesco_id": "246",
+      "unesco_name": "Sun Temple, Konârak",
+      "date_inscribed": "1984",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Sun Temple, Konârak",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Sun Temple, Konârak",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "7bb04299-5c62-4a8c-bd9a-1112ba28bfc7",
+      "slug": "taxila",
+      "name": "Taxila",
+      "unesco_id": "139",
+      "unesco_name": "Taxila",
+      "date_inscribed": "1980",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Taxila",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Taxila",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "26a7b4b3-e9f0-4be4-ae9d-7953fe4df01f",
+      "slug": "tchogha-zanbil",
+      "name": "Tchogha Zanbil",
+      "unesco_id": "113",
+      "unesco_name": "Tchogha Zanbil",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Tchogha Zanbil",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Tchogha Zanbil",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "bdba12d3-5acf-418e-a121-4f67ec09641a",
+      "slug": "the-great-wall",
+      "name": "The Great Wall",
+      "unesco_id": "438",
+      "unesco_name": "The Great Wall",
+      "date_inscribed": "1987",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — The Great Wall",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — The Great Wall",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "7a541af3-5070-4ca4-ad17-57069cf69db6",
+      "slug": "thracian-tomb-of-kazanlak",
+      "name": "Thracian Tomb of Kazanlak",
+      "unesco_id": "44",
+      "unesco_name": "Thracian Tomb of Kazanlak",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Thracian Tomb of Kazanlak",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Thracian Tomb of Kazanlak",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "a66777b9-d806-4aeb-81e3-ecaefe1949f0",
+      "slug": "tikal-national-park",
+      "name": "Tikal National Park",
+      "unesco_id": "64",
+      "unesco_name": "Tikal National Park",
+      "date_inscribed": "1979",
+      "category": "Mixed",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Tikal National Park",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Tikal National Park",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "1bdf556e-84ea-4fb4-80fb-d771211b2a19",
+      "slug": "urnes-stave-church",
+      "name": "Urnes Stave Church",
+      "unesco_id": "58",
+      "unesco_name": "Urnes Stave Church",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Urnes Stave Church",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Urnes Stave Church",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "77e4d491-f38b-40cf-b9a0-bb95fe36c84b",
+      "slug": "v-zelay-church-and-hill",
+      "name": "Vézelay, Church and Hill",
+      "unesco_id": "84",
+      "unesco_name": "Vézelay, Church and Hill",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Vézelay, Church and Hill",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Vézelay, Church and Hill",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "1ddd8845-d8bf-4a16-9b7a-e670957d39e1",
+      "slug": "wieliczka-and-bochnia-royal-salt-mines",
+      "name": "Wieliczka and Bochnia Royal Salt Mines",
+      "unesco_id": "32",
+      "unesco_name": "Wieliczka and Bochnia Royal Salt Mines",
+      "date_inscribed": "1978",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Wieliczka and Bochnia Royal Salt Mines",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Wieliczka and Bochnia Royal Salt Mines",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    },
+    {
+      "site_id": "18dfb441-60c2-4658-9663-89dfcfa961f5",
+      "slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+      "name": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+      "unesco_id": "31",
+      "unesco_name": "Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>",
+      "date_inscribed": "1979",
+      "category": "Cultural",
+      "historical_events": [],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage Centre — Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+          "organization": "HeritageAI",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

@@ -1,55 +1,30 @@
-"use client";
+﻿"use client";
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { GoogleLogin } from "@react-oauth/google";
 
 import { useAuth } from "@/providers/AuthProvider";
 
 export default function LoginForm() {
   const router = useRouter();
-  const { loginWithGoogle } = useAuth();
+  const { login } = useAuth();
 
-  const [errorMessage, setErrorMessage] = useState<string | null>(
-    null,
-  );
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [isSigningIn, setIsSigningIn] = useState(false);
 
-  const handleGoogleSuccess = async (credentialResponse: {
-    credential?: string;
-  }) => {
-    const idToken = credentialResponse.credential;
+  const handleSubmit = async (
+    event: React.FormEvent<HTMLFormElement>,
+  ) => {
+    event.preventDefault();
 
-    if (idToken) {
-      try {
-        const tokenParts = idToken.split(".");
-        const encodedPayload = tokenParts[1];
-
-        if (!encodedPayload) {
-          throw new Error("Google ID token payload is missing.");
-        }
-
-        const payload = JSON.parse(
-          atob(
-            encodedPayload
-              .replace(/-/g, "+")
-              .replace(/_/g, "/"),
-          ),
-        );
-
-        console.log("===== GOOGLE ID TOKEN CLAIM AUDIT =====");
-        console.log("EMAIL:", payload.email);
-        console.log("NAME:", payload.name);
-        console.log("PICTURE:", payload.picture);
-      } catch {
-        console.warn("Could not decode Google ID token payload.");
-      }
+    if (isSigningIn) {
+      return;
     }
 
-    if (!idToken) {
-      setErrorMessage(
-        "Google did not return a valid identity token.",
-      );
+    if (!email.trim() || !password) {
+      setErrorMessage("Please enter your email and password.");
       return;
     }
 
@@ -57,11 +32,15 @@ export default function LoginForm() {
     setIsSigningIn(true);
 
     try {
-      await loginWithGoogle(idToken);
+      await login({
+        email: email.trim(),
+        password,
+      });
+
       router.replace("/");
     } catch {
       setErrorMessage(
-        "Google sign-in failed. Please try again.",
+        "Unable to sign in. Check your email and password and try again.",
       );
     } finally {
       setIsSigningIn(false);
@@ -70,7 +49,7 @@ export default function LoginForm() {
 
   return (
     <section
-      aria-label="HeritageAI Google sign in"
+      aria-label="HeritageAI email sign in"
       className="mx-auto w-full max-w-md rounded-3xl border border-white/10 bg-white/[0.04] p-8 shadow-2xl backdrop-blur-xl"
     >
       <div className="mb-8 text-center">
@@ -83,46 +62,85 @@ export default function LoginForm() {
         </h2>
 
         <p className="mt-3 text-sm leading-6 text-white/60">
-          Sign in securely with your Google account.
+          Sign in with your HeritageAI account.
         </p>
       </div>
 
-      <div className="flex justify-center">
-        <div className="relative min-h-11">
-          {isSigningIn ? (
-            <div className="flex h-11 items-center justify-center rounded-full border border-white/10 bg-white/[0.06] px-6 text-sm text-white/70">
-              Signing in...
-            </div>
-          ) : (
-            <GoogleLogin
-              onSuccess={handleGoogleSuccess}
-              onError={() => {
-                setErrorMessage(
-                  "Google sign-in was cancelled or failed.",
-                );
-              }}
-              useOneTap={false}
-              theme="outline"
-              size="large"
-              text="signin_with"
-              shape="pill"
-            />
-          )}
+      <form onSubmit={handleSubmit} className="space-y-5">
+        <div>
+          <label
+            htmlFor="email"
+            className="mb-2 block text-sm font-medium text-white/80"
+          >
+            Email
+          </label>
+
+          <input
+            id="email"
+            name="email"
+            type="email"
+            autoComplete="email"
+            placeholder="you@example.com"
+            value={email}
+            onChange={(event) => {
+              setEmail(event.target.value);
+
+              if (errorMessage) {
+                setErrorMessage(null);
+              }
+            }}
+            disabled={isSigningIn}
+            className="w-full rounded-xl border border-white/10 bg-white/[0.05] px-4 py-3 text-sm text-white outline-none transition placeholder:text-white/30 focus:border-amber-300/50 focus:ring-1 focus:ring-amber-300/30 disabled:opacity-60"
+          />
         </div>
-      </div>
 
-      {errorMessage ? (
-        <p
-          role="alert"
-          className="mt-5 text-center text-sm text-red-300"
+        <div>
+          <label
+            htmlFor="password"
+            className="mb-2 block text-sm font-medium text-white/80"
+          >
+            Password
+          </label>
+
+          <input
+            id="password"
+            name="password"
+            type="password"
+            autoComplete="current-password"
+            placeholder="Enter your password"
+            value={password}
+            onChange={(event) => {
+              setPassword(event.target.value);
+
+              if (errorMessage) {
+                setErrorMessage(null);
+              }
+            }}
+            disabled={isSigningIn}
+            className="w-full rounded-xl border border-white/10 bg-white/[0.05] px-4 py-3 text-sm text-white outline-none transition placeholder:text-white/30 focus:border-amber-300/50 focus:ring-1 focus:ring-amber-300/30 disabled:opacity-60"
+          />
+        </div>
+
+        {errorMessage ? (
+          <p
+            role="alert"
+            className="rounded-xl border border-red-400/20 bg-red-400/5 px-4 py-3 text-center text-sm text-red-300"
+          >
+            {errorMessage}
+          </p>
+        ) : null}
+
+        <button
+          type="submit"
+          disabled={isSigningIn}
+          className="w-full rounded-xl bg-amber-300 px-5 py-3.5 text-sm font-semibold text-black transition hover:bg-amber-200 disabled:cursor-not-allowed disabled:opacity-60"
         >
-          {errorMessage}
-        </p>
-      ) : null}
+          {isSigningIn ? "Signing in..." : "Sign in"}
+        </button>
+      </form>
 
       <p className="mt-8 text-center text-xs leading-5 text-white/40">
-        By continuing, you use Google to authenticate your
-        HeritageAI account.
+        Sign in with your HeritageAI email and password.
       </p>
     </section>
   );

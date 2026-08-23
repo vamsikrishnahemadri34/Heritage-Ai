@@ -3,19 +3,14 @@
 import { Download, Smartphone, Sparkles } from "lucide-react";
 
 import { useEffect, useState } from "react";
-import { useAuth } from "@/providers/AuthProvider";
 
 const ANDROID_DOWNLOAD_URL =
-  "https://github.com/srivanihemadri/heritageai/releases/download/v1.0.0/HeritageAI.apk";
+  "https://github.com/srivanihemadri/heritageai/releases/download/v1.0.1/HeritageAI.apk";
 
 export default function AppDownloadSection() {
-  const { isAuthenticated, isLoading } = useAuth();
   const [platform, setPlatform] = useState<"android" | "ios" | null>(null);
 
   useEffect(() => {
-    if (isLoading || !isAuthenticated) {
-      return;
-    }
 
     if (window.location.hash === "#download-app") {
       requestAnimationFrame(() => {
@@ -25,11 +20,8 @@ export default function AppDownloadSection() {
         });
       });
     }
-  }, [isAuthenticated, isLoading]);
+  }, []);
 
-  if (isLoading || !isAuthenticated) {
-    return null;
-  }
 
   return (
     <section className="relative overflow-hidden py-14 sm:py-16">
@@ -164,7 +156,7 @@ export default function AppDownloadSection() {
                     </a>
 
                     <p className="mt-3 text-center text-[10px] uppercase tracking-[0.16em] text-[var(--heritage-bronze)]">
-                      HeritageAI Android • Version 1.0.0
+                      HeritageAI Android • Version 1.0.1
                     </p>
                   </>
                 )}
@@ -193,3 +185,8 @@ export default function AppDownloadSection() {
     </section>
   );
 }
+
+
+
+
+

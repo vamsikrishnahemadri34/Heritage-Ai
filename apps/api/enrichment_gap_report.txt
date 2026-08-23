@@ -1,0 +1,94 @@
+﻿====================================================================================================
+HERITAGEAI - ENRICHMENT GAP REPORT
+====================================================================================================
+SITE                                                     EVENTS  SOURCES  RELATIONS   MEDIA STATUS
+----------------------------------------------------------------------------------------------------
+Aachen Cathedral                                              0        0          0       1 NEEDS ENRICHMENT
+Abu Mena                                                      0        0          0       1 NEEDS ENRICHMENT
+Acropolis of Athens                                           4        2          2       1 COMPLETE
+Agra Fort                                                     0        0          0       1 NEEDS ENRICHMENT
+Ajanta Caves                                                  4        2          2       1 COMPLETE
+Aksum                                                         0        0          0       1 NEEDS ENRICHMENT
+Al Qal'a of Beni Hammad                                       0        0          0       1 NEEDS ENRICHMENT
+Amphitheatre of El Jem                                        0        0          0       1 NEEDS ENRICHMENT
+Ancient City of Bosra                                         0        0          0       1 NEEDS ENRICHMENT
+Ancient City of Damascus                                      0        0          0       1 NEEDS ENRICHMENT
+Ancient City of Polonnaruwa                                   0        0          0       1 NEEDS ENRICHMENT
+Ancient City of Sigiriya                                      0        0          0       1 NEEDS ENRICHMENT
+Ancient Thebes with its Necropolis                            0        0          0       1 NEEDS ENRICHMENT
+Angkor                                                        0        0          0       1 NEEDS ENRICHMENT
+Angkor Wat                                                    4        2          2       1 COMPLETE
+Anjar                                                         0        0          0       1 NEEDS ENRICHMENT
+Antigua Guatemala                                             0        0          0       1 NEEDS ENRICHMENT
+Archaeological Ruins at Moenjodaro                            0        0          0       1 NEEDS ENRICHMENT
+Archaeological Site of Carthage                               0        0          0       1 NEEDS ENRICHMENT
+Asante Traditional Buildings                                  0        0          0       1 NEEDS ENRICHMENT
+Auschwitz Birkenau German Nazi Concentration and Exterm       0        0          0       1 NEEDS ENRICHMENT
+Baalbek                                                       0        0          0       1 NEEDS ENRICHMENT
+Ban Chiang Archaeological Site                                0        0          0       1 NEEDS ENRICHMENT
+Baroque Churches of the Philippines                           0        0          0       1 NEEDS ENRICHMENT
+Borobudur Temple Compounds                                    0        0          0       1 NEEDS ENRICHMENT
+Boyana Church                                                 0        0          0       1 NEEDS ENRICHMENT
+Brihadeeswarar Temple                                         4        2          2       1 COMPLETE
+Bryggen                                                       0        0          0       1 NEEDS ENRICHMENT
+Buddhist Monuments in the Horyu-ji Area                       0        0          0       1 NEEDS ENRICHMENT
+Buddhist Ruins of Takht-i-Bahi and Neighbouring City Re       0        0          0       1 NEEDS ENRICHMENT
+Byblos                                                        0        0          0       1 NEEDS ENRICHMENT
+Chartres Cathedral                                            0        0          0       1 NEEDS ENRICHMENT
+Church and Dominican Convent of Santa Maria delle Grazi       0        0          0       1 NEEDS ENRICHMENT
+Churches and Convents of Goa                                  0        0          0       1 NEEDS ENRICHMENT
+City of Quito                                                 0        0          0       1 NEEDS ENRICHMENT
+City of Valletta                                              0        0          0       1 NEEDS ENRICHMENT
+Ellora Caves                                                  4        2          2       1 COMPLETE
+Fasil Ghebbi, Gondar Region                                   0        0          0       1 NEEDS ENRICHMENT
+Fort and Shalamar Gardens in Lahore                           0        0          0       1 NEEDS ENRICHMENT
+Fortifications on the Caribbean Side of Panama: Portobe       0        0          0       1 NEEDS ENRICHMENT
+Forts and Castles, Volta, Greater Accra, Central and We       0        0          0       1 NEEDS ENRICHMENT
+Group of Monuments at Mahabalipuram                           0        0          0       1 NEEDS ENRICHMENT
+Hampi                                                         4        2          2       1 COMPLETE
+Historic Cairo                                                0        0          0       1 NEEDS ENRICHMENT
+Historic Centre of Krak≤w                                     0        0          0       1 NEEDS ENRICHMENT
+Historic Centre of Rome, the Properties of the Holy See       0        0          0       1 NEEDS ENRICHMENT
+Historic City of Ayutthaya                                    0        0          0       1 NEEDS ENRICHMENT
+Historic Mosque City of Bagerhat                              0        0          0       1 NEEDS ENRICHMENT
+Historic Town of Ouro Preto                                   0        0          0       1 NEEDS ENRICHMENT
+Historic Town of Sukhothai and Associated Historic Town       0        0          0       1 NEEDS ENRICHMENT
+Historical Complex of Split with the Palace of Diocleti       0        0          0       1 NEEDS ENRICHMENT
+Historical Monuments at Makli, Thatta                         0        0          0       1 NEEDS ENRICHMENT
+Imperial Palaces of the Ming and Qing Dynasties in Beij       0        0          0       1 NEEDS ENRICHMENT
+Independence Hall                                             0        0          0       1 NEEDS ENRICHMENT
+Island of GorΘe                                               0        0          0       1 NEEDS ENRICHMENT
+Kathmandu Valley                                              0        0          0       1 NEEDS ENRICHMENT
+Konark Sun Temple                                             4        2          2       1 COMPLETE
+LÆAnse aux Meadows National Historic Site                     0        0          0       1 NEEDS ENRICHMENT
+Machu Picchu                                                  4        2          2       1 COMPLETE
+Madara Rider                                                  0        0          0       1 NEEDS ENRICHMENT
+Mausoleum of the First Qin Emperor                            0        0          0       1 NEEDS ENRICHMENT
+Maya Site of Copan                                            0        0          0       1 NEEDS ENRICHMENT
+Medina of Tunis                                               0        0          0       1 NEEDS ENRICHMENT
+Meidan Emam, Esfahan                                          0        0          0       1 NEEDS ENRICHMENT
+Memphis and its Necropolis û the Pyramid Fields from Gi       0        0          0       1 NEEDS ENRICHMENT
+Mesa Verde National Park                                      0        0          0       1 NEEDS ENRICHMENT
+Mogao Caves                                                   0        0          0       1 NEEDS ENRICHMENT
+Mont-Saint-Michel and its Bay                                 0        0          0       1 NEEDS ENRICHMENT
+Mount Huangshan                                               0        0          0       1 NEEDS ENRICHMENT
+Mount Taishan                                                 0        0          0       1 NEEDS ENRICHMENT
+Natural and Cultural Heritage of the Ohrid region             0        0          0       1 NEEDS ENRICHMENT
+Natural and Culturo-Historical Region of Kotor                0        0          0       1 NEEDS ENRICHMENT
+Ngorongoro Conservation Area                                  0        0          0       1 NEEDS ENRICHMENT
+Nubian Monuments from Abu Simbel to Philae                    0        0          0       1 NEEDS ENRICHMENT
+Old City of Dubrovnik                                         0        0          0       1 NEEDS ENRICHMENT
+Old Walled City of Shibam                                     0        0          0       1 NEEDS ENRICHMENT
+Palace and Park of Versailles                                 0        0          0       1 NEEDS ENRICHMENT
+Peking Man Site at Zhoukoudian                                0        0          0       1 NEEDS ENRICHMENT
+Persepolis                                                    0        0          0       1 NEEDS ENRICHMENT
+Petra                                                         4        2          2       1 COMPLETE
+Prambanan Temple Compounds                                    0        0          0       1 NEEDS ENRICHMENT
+Prehistoric Sites and Decorated Caves of the VΘzΦre Val       0        0          0       1 NEEDS ENRICHMENT
+Red Fort                                                      6        2          1       1 COMPLETE
+Rock Drawings in Valcamonica                                  0        0          0       1 NEEDS ENRICHMENT
+Rock-Hewn Churches of Ivanovo                                 0        0          0       1 NEEDS ENRICHMENT
+Rock-Hewn Churches, Lalibela                                  0        0          0       1 NEEDS ENRICHMENT
+Ruins of the Buddhist Vihara at Paharpur                      0        0          0       1 NEEDS ENRICHMENT
+Sacred City of Anuradhapura                                   0        0          0       1 NEEDS ENRICHMENT
+Site of Palmyra                                               0        0          0       1 NEEDS ENRICHMENT

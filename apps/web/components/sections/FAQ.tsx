@@ -1,7 +1,5 @@
 ﻿"use client";
 
-import { useAuth } from "@/providers/AuthProvider";
-
 import { useState } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import {
@@ -45,8 +43,6 @@ const faqs = [
 export default function FAQ() {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
   const reduceMotion = useReducedMotion();
-  const { isAuthenticated, isLoading } = useAuth();
-
 
   return (
     <section
@@ -233,3 +229,4 @@ export default function FAQ() {
     </section>
   );
 }
+

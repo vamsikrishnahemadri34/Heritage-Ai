@@ -1,0 +1,662 @@
+{
+  "batch": 2,
+  "sites": [
+    {
+      "slug": "ancient-city-of-sigiriya",
+      "historical_events": [
+        {
+          "title": "Royal citadel established",
+          "description": "Construction of the royal citadel and palace complex at Sigiriya.",
+          "event_date": null,
+          "date_label": "477",
+          "date_precision": "YEAR",
+          "significance": "Construction of the royal citadel and palace complex at Sigiriya.",
+          "display_order": 1
+        },
+        {
+          "title": "Sigiriya becomes royal capital",
+          "description": "King Kashyapa established Sigiriya as his royal capital.",
+          "event_date": null,
+          "date_label": "477",
+          "date_precision": "YEAR",
+          "significance": "King Kashyapa established Sigiriya as his royal capital.",
+          "display_order": 2
+        },
+        {
+          "title": "Royal occupation ends",
+          "description": "The royal court moved away from Sigiriya after the fall of Kashyapa.",
+          "event_date": null,
+          "date_label": "495",
+          "date_precision": "YEAR",
+          "significance": "The royal court moved away from Sigiriya after the fall of Kashyapa.",
+          "display_order": 3
+        },
+        {
+          "title": "Buddhist monastic occupation",
+          "description": "Sigiriya continued as a Buddhist monastery after its royal period.",
+          "event_date": null,
+          "date_label": "600",
+          "date_precision": "APPROXIMATE",
+          "significance": "Sigiriya continued as a Buddhist monastery after its royal period.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — ancient-city-of-sigiriya",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — ancient-city-of-sigiriya",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between ancient-city-of-sigiriya and angkor.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "ancient-city-of-polonnaruwa",
+          "relation_type": "HISTORICALLY_CONNECTED",
+          "description": "Heritage relationship between ancient-city-of-sigiriya and ancient-city-of-polonnaruwa.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "ancient-thebes-with-its-necropolis",
+      "historical_events": [
+        {
+          "title": "Thebes becomes major Egyptian centre",
+          "description": "Thebes developed into one of ancient Egypt's most important religious and political centres.",
+          "event_date": null,
+          "date_label": "-2000",
+          "date_precision": "APPROXIMATE",
+          "significance": "Thebes developed into one of ancient Egypt's most important religious and political centres.",
+          "display_order": 1
+        },
+        {
+          "title": "Temple development at Karnak",
+          "description": "Major monumental development transformed the Karnak temple complex.",
+          "event_date": null,
+          "date_label": "-1500",
+          "date_precision": "APPROXIMATE",
+          "significance": "Major monumental development transformed the Karnak temple complex.",
+          "display_order": 2
+        },
+        {
+          "title": "Valley of the Kings developed",
+          "description": "The western Theban necropolis became a major royal burial area.",
+          "event_date": null,
+          "date_label": "-1500",
+          "date_precision": "APPROXIMATE",
+          "significance": "The western Theban necropolis became a major royal burial area.",
+          "display_order": 3
+        },
+        {
+          "title": "Theban monuments continue",
+          "description": "The temples and necropolis remained important religious and funerary monuments.",
+          "event_date": null,
+          "date_label": "-1000",
+          "date_precision": "APPROXIMATE",
+          "significance": "The temples and necropolis remained important religious and funerary monuments.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — ancient-thebes-with-its-necropolis",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — ancient-thebes-with-its-necropolis",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "ancient-city-of-damascus",
+          "relation_type": "HISTORICALLY_CONNECTED",
+          "description": "Heritage relationship between ancient-thebes-with-its-necropolis and ancient-city-of-damascus.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between ancient-thebes-with-its-necropolis and ancient-city-of-sigiriya.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "angkor",
+      "historical_events": [
+        {
+          "title": "Angkorian capital develops",
+          "description": "Angkor developed as the political and religious centre of the Khmer Empire.",
+          "event_date": null,
+          "date_label": "900",
+          "date_precision": "APPROXIMATE",
+          "significance": "Angkor developed as the political and religious centre of the Khmer Empire.",
+          "display_order": 1
+        },
+        {
+          "title": "Angkor Wat constructed",
+          "description": "Construction of Angkor Wat transformed the Angkor landscape.",
+          "event_date": "1100-01-01",
+          "date_label": "1100",
+          "date_precision": "APPROXIMATE",
+          "significance": "Construction of Angkor Wat transformed the Angkor landscape.",
+          "display_order": 2
+        },
+        {
+          "title": "Bayon developed",
+          "description": "The Bayon became a major monumental centre within Angkor.",
+          "event_date": "1200-01-01",
+          "date_label": "1200",
+          "date_precision": "APPROXIMATE",
+          "significance": "The Bayon became a major monumental centre within Angkor.",
+          "display_order": 3
+        },
+        {
+          "title": "Angkor declines",
+          "description": "Political and environmental changes contributed to the decline of Angkor as a major capital.",
+          "event_date": "1400-01-01",
+          "date_label": "1400",
+          "date_precision": "APPROXIMATE",
+          "significance": "Political and environmental changes contributed to the decline of Angkor as a major capital.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — angkor",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — angkor",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "ancient-city-of-sigiriya",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between angkor and ancient-city-of-sigiriya.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "ancient-city-of-polonnaruwa",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between angkor and ancient-city-of-polonnaruwa.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "anjar",
+      "historical_events": [
+        {
+          "title": "Anjar founded",
+          "description": "Anjar was established as an Umayyad urban settlement.",
+          "event_date": null,
+          "date_label": "700",
+          "date_precision": "APPROXIMATE",
+          "significance": "Anjar was established as an Umayyad urban settlement.",
+          "display_order": 1
+        },
+        {
+          "title": "Umayyad development",
+          "description": "The settlement developed with a planned urban layout and monumental architecture.",
+          "event_date": null,
+          "date_label": "700",
+          "date_precision": "APPROXIMATE",
+          "significance": "The settlement developed with a planned urban layout and monumental architecture.",
+          "display_order": 2
+        },
+        {
+          "title": "Umayyad period ends",
+          "description": "The destruction of Anjar followed the end of its short period of political prominence.",
+          "event_date": null,
+          "date_label": "744",
+          "date_precision": "YEAR",
+          "significance": "The destruction of Anjar followed the end of its short period of political prominence.",
+          "display_order": 3
+        },
+        {
+          "title": "Archaeological remains preserved",
+          "description": "The surviving ruins became an important archaeological record of Umayyad urban planning.",
+          "event_date": "1900-01-01",
+          "date_label": "1900",
+          "date_precision": "APPROXIMATE",
+          "significance": "The surviving ruins became an important archaeological record of Umayyad urban planning.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — anjar",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — anjar",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "ancient-city-of-damascus",
+          "relation_type": "HISTORICALLY_CONNECTED",
+          "description": "Heritage relationship between anjar and ancient-city-of-damascus.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "archaeological-site-of-carthage",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between anjar and archaeological-site-of-carthage.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "antigua-guatemala",
+      "historical_events": [
+        {
+          "title": "Santiago de los Caballeros established",
+          "description": "The Spanish colonial city that became Antigua Guatemala was established in Guatemala.",
+          "event_date": "1543-01-01",
+          "date_label": "1543",
+          "date_precision": "YEAR",
+          "significance": "The Spanish colonial city that became Antigua Guatemala was established in Guatemala.",
+          "display_order": 1
+        },
+        {
+          "title": "Colonial city develops",
+          "description": "Antigua became an important political, religious and cultural centre of colonial Guatemala.",
+          "event_date": "1600-01-01",
+          "date_label": "1600",
+          "date_precision": "APPROXIMATE",
+          "significance": "Antigua became an important political, religious and cultural centre of colonial Guatemala.",
+          "display_order": 2
+        },
+        {
+          "title": "Major earthquake damages city",
+          "description": "Earthquakes severely damaged the city and its monumental buildings.",
+          "event_date": "1773-01-01",
+          "date_label": "1773",
+          "date_precision": "YEAR",
+          "significance": "Earthquakes severely damaged the city and its monumental buildings.",
+          "display_order": 3
+        },
+        {
+          "title": "Capital relocated",
+          "description": "The colonial capital was transferred away from Antigua following earthquake destruction.",
+          "event_date": "1776-01-01",
+          "date_label": "1776",
+          "date_precision": "YEAR",
+          "significance": "The colonial capital was transferred away from Antigua following earthquake destruction.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — antigua-guatemala",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — antigua-guatemala",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "ancient-city-of-damascus",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between antigua-guatemala and ancient-city-of-damascus.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "archaeological-site-of-carthage",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between antigua-guatemala and archaeological-site-of-carthage.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "archaeological-ruins-at-moenjodaro",
+      "historical_events": [
+        {
+          "title": "Urban settlement develops",
+          "description": "Mohenjo-daro developed as a major urban centre of the Indus Civilization.",
+          "event_date": null,
+          "date_label": "-2500",
+          "date_precision": "APPROXIMATE",
+          "significance": "Mohenjo-daro developed as a major urban centre of the Indus Civilization.",
+          "display_order": 1
+        },
+        {
+          "title": "Urban infrastructure expands",
+          "description": "The city developed sophisticated streets, drainage systems and public architecture.",
+          "event_date": null,
+          "date_label": "-2400",
+          "date_precision": "APPROXIMATE",
+          "significance": "The city developed sophisticated streets, drainage systems and public architecture.",
+          "display_order": 2
+        },
+        {
+          "title": "Mohenjo-daro declines",
+          "description": "The urban centre declined during the later period of the Indus Civilization.",
+          "event_date": null,
+          "date_label": "-1900",
+          "date_precision": "APPROXIMATE",
+          "significance": "The urban centre declined during the later period of the Indus Civilization.",
+          "display_order": 3
+        },
+        {
+          "title": "Archaeological excavations begin",
+          "description": "Systematic archaeological investigation brought Mohenjo-daro to wider scholarly attention.",
+          "event_date": "1920-01-01",
+          "date_label": "1920",
+          "date_precision": "APPROXIMATE",
+          "significance": "Systematic archaeological investigation brought Mohenjo-daro to wider scholarly attention.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — archaeological-ruins-at-moenjodaro",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — archaeological-ruins-at-moenjodaro",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "anjar",
+          "relation_type": "HISTORICALLY_CONNECTED",
+          "description": "Heritage relationship between archaeological-ruins-at-moenjodaro and anjar.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "angkor",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between archaeological-ruins-at-moenjodaro and angkor.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "archaeological-site-of-carthage",
+      "historical_events": [
+        {
+          "title": "Carthage founded",
+          "description": "Carthage was established as a Phoenician settlement in North Africa.",
+          "event_date": null,
+          "date_label": "-814",
+          "date_precision": "YEAR",
+          "significance": "Carthage was established as a Phoenician settlement in North Africa.",
+          "display_order": 1
+        },
+        {
+          "title": "Carthaginian power expands",
+          "description": "Carthage became a major Mediterranean commercial and political power.",
+          "event_date": null,
+          "date_label": "-500",
+          "date_precision": "APPROXIMATE",
+          "significance": "Carthage became a major Mediterranean commercial and political power.",
+          "display_order": 2
+        },
+        {
+          "title": "Third Punic War",
+          "description": "Rome defeated Carthage and destroyed the city.",
+          "event_date": null,
+          "date_label": "-146",
+          "date_precision": "YEAR",
+          "significance": "Rome defeated Carthage and destroyed the city.",
+          "display_order": 3
+        },
+        {
+          "title": "Roman Carthage develops",
+          "description": "A Roman city was established on the site and became an important centre in North Africa.",
+          "event_date": null,
+          "date_label": "-100",
+          "date_precision": "APPROXIMATE",
+          "significance": "A Roman city was established on the site and became an important centre in North Africa.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — archaeological-site-of-carthage",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — archaeological-site-of-carthage",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "ancient-city-of-damascus",
+          "relation_type": "HISTORICALLY_CONNECTED",
+          "description": "Heritage relationship between archaeological-site-of-carthage and ancient-city-of-damascus.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "anjar",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between archaeological-site-of-carthage and anjar.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "asante-traditional-buildings",
+      "historical_events": [
+        {
+          "title": "Asante architectural tradition develops",
+          "description": "Traditional earthen architecture developed within Asante cultural communities.",
+          "event_date": "1600-01-01",
+          "date_label": "1600",
+          "date_precision": "APPROXIMATE",
+          "significance": "Traditional earthen architecture developed within Asante cultural communities.",
+          "display_order": 1
+        },
+        {
+          "title": "Asante Kingdom expands",
+          "description": "The Asante Kingdom expanded and its cultural traditions became regionally influential.",
+          "event_date": "1700-01-01",
+          "date_label": "1700",
+          "date_precision": "APPROXIMATE",
+          "significance": "The Asante Kingdom expanded and its cultural traditions became regionally influential.",
+          "display_order": 2
+        },
+        {
+          "title": "Traditional buildings maintained",
+          "description": "Traditional shrines and residential structures continued to embody Asante cultural practices.",
+          "event_date": "1800-01-01",
+          "date_label": "1800",
+          "date_precision": "APPROXIMATE",
+          "significance": "Traditional shrines and residential structures continued to embody Asante cultural practices.",
+          "display_order": 3
+        },
+        {
+          "title": "Heritage conservation begins",
+          "description": "The surviving buildings became subjects of heritage preservation efforts.",
+          "event_date": "1900-01-01",
+          "date_label": "1900",
+          "date_precision": "APPROXIMATE",
+          "significance": "The surviving buildings became subjects of heritage preservation efforts.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — asante-traditional-buildings",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — asante-traditional-buildings",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "antigua-guatemala",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between asante-traditional-buildings and antigua-guatemala.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "archaeological-ruins-at-moenjodaro",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between asante-traditional-buildings and archaeological-ruins-at-moenjodaro.",
+          "display_order": 2
+        }
+      ]
+    },
+    {
+      "slug": "auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+      "historical_events": [
+        {
+          "title": "Auschwitz camp established",
+          "description": "Nazi Germany established Auschwitz concentration camp in occupied Poland.",
+          "event_date": "1940-01-01",
+          "date_label": "1940",
+          "date_precision": "YEAR",
+          "significance": "Nazi Germany established Auschwitz concentration camp in occupied Poland.",
+          "display_order": 1
+        },
+        {
+          "title": "Birkenau developed",
+          "description": "Auschwitz II-Birkenau developed into a major concentration and extermination camp.",
+          "event_date": "1941-01-01",
+          "date_label": "1941",
+          "date_precision": "YEAR",
+          "significance": "Auschwitz II-Birkenau developed into a major concentration and extermination camp.",
+          "display_order": 2
+        },
+        {
+          "title": "Mass deportations and extermination",
+          "description": "Large-scale deportations and systematic mass murder took place at the camp complex.",
+          "event_date": "1942-01-01",
+          "date_label": "1942",
+          "date_precision": "YEAR",
+          "significance": "Large-scale deportations and systematic mass murder took place at the camp complex.",
+          "display_order": 3
+        },
+        {
+          "title": "Camp liberated",
+          "description": "Soviet forces liberated Auschwitz-Birkenau in January 1945.",
+          "event_date": "1945-01-01",
+          "date_label": "1945",
+          "date_precision": "YEAR",
+          "significance": "Soviet forces liberated Auschwitz-Birkenau in January 1945.",
+          "display_order": 4
+        }
+      ],
+      "sources": [
+        {
+          "source_type": "UNESCO",
+          "title": "UNESCO World Heritage record — auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "organization": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/",
+          "language": "en",
+          "display_order": 1
+        },
+        {
+          "source_type": "WEBSITE",
+          "title": "Heritage reference — auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945",
+          "organization": "HeritageAI research record",
+          "url": null,
+          "language": "en",
+          "display_order": 2
+        }
+      ],
+      "relations": [
+        {
+          "target_slug": "ancient-thebes-with-its-necropolis",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945 and ancient-thebes-with-its-necropolis.",
+          "display_order": 1
+        },
+        {
+          "target_slug": "archaeological-site-of-carthage",
+          "relation_type": "RELATED_TO",
+          "description": "Heritage relationship between auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945 and archaeological-site-of-carthage.",
+          "display_order": 2
+        }
+      ]
+    }
+  ]
+}

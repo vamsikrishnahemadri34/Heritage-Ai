@@ -24,7 +24,6 @@ import {
   getHeritageSites,
 } from "@/services/heritage";
 import { resolveMediaUrl } from "@/lib/media-url";
-import { useAuthStore } from "@/store/auth-store";
 import type { HeritageSite } from "@/types/heritage";
 
 interface FeaturedSite {
@@ -34,7 +33,6 @@ interface FeaturedSite {
 
 export default function HomeScreen() {
   const router = useRouter();
-  const user = useAuthStore((state) => state.user);
 
   const [featuredSites, setFeaturedSites] = useState<FeaturedSite[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -107,8 +105,7 @@ export default function HomeScreen() {
     };
   }, []);
 
-  const firstName =
-    user?.full_name?.trim().split(" ")[0] || "Explorer";
+  const firstName = "Explorer";
 
   const openSearch = () => {
     router.push({
@@ -143,17 +140,6 @@ export default function HomeScreen() {
               </Text>
             </View>
           </View>
-
-          <Pressable
-            style={styles.profileButton}
-            onPress={() => router.push("/(app)/profile")}
-          >
-            <Ionicons
-              name="person-outline"
-              size={20}
-              color={HeritageColors.ivory}
-            />
-          </Pressable>
         </View>
 
         {/* GREETING */}
@@ -572,17 +558,6 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     letterSpacing: 1.1,
     marginTop: 2,
-  },
-
-  profileButton: {
-    width: 42,
-    height: 42,
-    borderRadius: 21,
-    alignItems: "center",
-    justifyContent: "center",
-    backgroundColor: HeritageColors.surface,
-    borderWidth: 1,
-    borderColor: HeritageColors.border,
   },
 
   greeting: {

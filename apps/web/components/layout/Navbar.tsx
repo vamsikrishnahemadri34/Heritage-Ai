@@ -1,12 +1,10 @@
-﻿"use client";
+"use client";
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Logo from "../ui/logo/Logo";
-import UserAvatar from "../ui/UserAvatar";
-import { useAuth } from "@/providers/AuthProvider";
 
 const navigation = [
   { label: "Home", href: "/" },
@@ -17,7 +15,6 @@ const navigation = [
 export default function Navbar() {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
-  const { user, isAuthenticated, logout } = useAuth();
 
   useEffect(() => {
     setIsOpen(false);
@@ -38,10 +35,6 @@ export default function Navbar() {
       document.removeEventListener("keydown", handleKeyDown);
     };
   }, [isOpen]);
-
-  if (pathname === "/login") {
-    return null;
-  }
 
   const isActive = (href: string) => {
     if (href === "/") {
@@ -83,49 +76,12 @@ export default function Navbar() {
             );
           })}
 
-          {isAuthenticated && user && (
-            <Link
-              href="/#download-app"
-              className="relative rounded-xl px-4 py-2.5 text-sm font-medium text-[var(--heritage-muted)] transition-all duration-200 hover:bg-white/[0.04] hover:text-[var(--heritage-ivory)]"
-            >
-              Download App
-            </Link>
-          )}
-        </div>
-
-        <div className="hidden items-center gap-2 md:flex">
-          {isAuthenticated && user ? (
-            <div className="relative flex items-center gap-2">
-              <Link
-                href="/profile"
-                className="flex min-h-10 items-center gap-2 rounded-xl border border-[var(--glass-border)] bg-white/[0.03] px-3 py-2 text-sm font-medium text-[var(--heritage-ivory)] transition-all hover:bg-white/[0.06]"
-              >
-                <UserAvatar
-                  src={user.profile_image_url}
-                  name={user.full_name}
-                />
-
-                <span className="max-w-32 truncate">
-                  {user.full_name || "Profile"}
-                </span>
-              </Link>
-
-              <button
-                type="button"
-                onClick={logout}
-                className="heritage-button heritage-button-glass min-h-10 px-4 text-sm"
-              >
-                Leave
-              </button>
-            </div>
-          ) : (
-            <Link
-              href="/login"
-              className="heritage-button heritage-button-gold heritage-gold-glow min-h-10 px-5 text-sm"
-            >
-              Get In
-            </Link>
-          )}
+          <Link
+            href="/#download-app"
+            className="relative rounded-xl px-4 py-2.5 text-sm font-medium text-[var(--heritage-muted)] transition-all duration-200 hover:bg-white/[0.04] hover:text-[var(--heritage-ivory)]"
+          >
+            Download App
+          </Link>
         </div>
 
         <button
@@ -168,55 +124,13 @@ export default function Navbar() {
               );
             })}
 
-            {isAuthenticated && user && (
-              <Link
-                href="/#download-app"
-                onClick={() => setIsOpen(false)}
-                className="flex items-center justify-between rounded-xl px-4 py-3.5 text-sm font-medium text-[var(--heritage-muted)] transition-all hover:bg-white/[0.04] hover:text-[var(--heritage-ivory)]"
-              >
-                <span>Download App</span>
-              </Link>
-            )}
-          </div>
-
-          <div className="border-t border-[var(--glass-border)] p-3">
-            {isAuthenticated && user ? (
-              <div className="space-y-2">
-                <Link
-                  href="/profile"
-                  onClick={() => setIsOpen(false)}
-                  className="flex items-center gap-3 rounded-xl px-4 py-3 text-sm font-medium text-[var(--heritage-ivory)] transition-all hover:bg-white/[0.04]"
-                >
-                  <UserAvatar
-                    src={user.profile_image_url}
-                    name={user.full_name}
-                    size="md"
-                  />
-
-                  <span className="truncate">
-                    {user.full_name || "Profile"}
-                  </span>
-                </Link>
-
-                <button
-                  type="button"
-                  onClick={() => {
-                    setIsOpen(false);
-                    logout();
-                  }}
-                  className="heritage-button heritage-button-glass min-h-11 w-full text-sm"
-                >
-                  Leave
-                </button>
-              </div>
-            ) : (
-              <Link
-                href="/login"
-                className="heritage-button heritage-button-gold min-h-11 w-full text-sm"
-              >
-                Get In
-              </Link>
-            )}
+            <Link
+              href="/#download-app"
+              onClick={() => setIsOpen(false)}
+              className="flex items-center justify-between rounded-xl px-4 py-3.5 text-sm font-medium text-[var(--heritage-muted)] transition-all hover:bg-white/[0.04] hover:text-[var(--heritage-ivory)]"
+            >
+              <span>Download App</span>
+            </Link>
           </div>
         </div>
       )}

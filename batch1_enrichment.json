@@ -1,0 +1,59 @@
+{
+  "batch": 1,
+  "sites": [
+    {
+      "slug": "aachen-cathedral",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "abu-mena",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "agra-fort",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "aksum",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "al-qal-a-of-beni-hammad",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "amphitheatre-of-el-jem",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "ancient-city-of-bosra",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "ancient-city-of-damascus",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    },
+    {
+      "slug": "ancient-city-of-polonnaruwa",
+      "historical_events": [],
+      "sources": [],
+      "relations": []
+    }
+  ]
+}

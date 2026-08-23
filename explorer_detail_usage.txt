@@ -1,0 +1,25 @@
+﻿
+Path                                                        LineNumber Line                                                                                  
+----                                                        ---------- ----                                                                                  
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                 11   getHeritageSiteMedia,                                                               
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                 12   getHeritageSites,                                                                   
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                 67   const [mediaBySiteId, setMediaBySiteId] = useState<Record<string, HeritageSiteMed...
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                104         const data = await getHeritageSites({                                         
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                118               const response = await getHeritageSiteMedia(site.id);                   
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                142         setMediaBySiteId(Object.fromEntries(mediaEntries));                           
+D:\HA\apps\web\components\explorer\ExplorerPage.tsx                521                     primaryImage={mediaBySiteId[site.id] ?? null}                     
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         15   getHeritageSiteMedia,                                                               
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         21   relations: ResolvedHeritageSiteRelation[];                                          
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         34   relations,                                                                          
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         36   const [mediaBySiteId, setMediaBySiteId] = React.useState<                           
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         45         relations.map(async ({ site }) => {                                           
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         47             const response = await getHeritageSiteMedia(site.id);                     
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         72         setMediaBySiteId(Object.fromEntries(results));                                
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         76     if (relations.length > 0) {                                                       
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         79       setMediaBySiteId({});                                                           
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         85   }, [relations]);                                                                    
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx         87   if (relations.length === 0) {                                                       
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx        116         {relations.map(({ relation, site }) => {                                      
+D:\HA\apps\web\components\explorer\RelatedHeritageSites.tsx        121           const primaryImage = mediaBySiteId[site.id];                                
+
+

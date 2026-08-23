@@ -1,0 +1,141 @@
+﻿======================================================================
+HERITAGE SITE - UNESCO MATCH REPORT
+======================================================================
+[MATCH] Aachen Cathedral => Aachen Cathedral | ID=3
+[MATCH] Abu Mena => Abu Mena | ID=90
+[MATCH] Agra Fort => Agra Fort | ID=251
+[MATCH] Ajanta Caves => Ajanta Caves | ID=242
+[MATCH] Aksum => Aksum | ID=15
+[MATCH] Al Qal'a of Beni Hammad => Al Qal'a of Beni Hammad | ID=102
+[MATCH] Amphitheatre of El Jem => Amphitheatre of El Jem | ID=38
+[MATCH] Ancient City of Bosra => Ancient City of Bosra | ID=22
+[MATCH] Ancient City of Damascus => Ancient City of Damascus | ID=20
+[MATCH] Ancient City of Polonnaruwa => Ancient City of Polonnaruwa | ID=201
+[MATCH] Ancient City of Sigiriya => Ancient City of Sigiriya | ID=202
+[MATCH] Ancient Thebes with its Necropolis => Ancient Thebes with its Necropolis | ID=87
+[MATCH] Angkor => Angkor | ID=668
+[MATCH] Anjar => Anjar | ID=293
+[MATCH] Antigua Guatemala => Antigua Guatemala | ID=65
+[MATCH] Archaeological Ruins at Moenjodaro => Archaeological Ruins at Moenjodaro | ID=138
+[MATCH] Archaeological Site of Carthage => Archaeological Site of Carthage | ID=37
+[MATCH] Asante Traditional Buildings => Asante Traditional Buildings | ID=35
+[MATCH] Baalbek => Baalbek | ID=294
+[MATCH] Ban Chiang Archaeological Site => Ban Chiang Archaeological Site | ID=575
+[MATCH] Baroque Churches of the Philippines => Baroque Churches of the Philippines | ID=677
+[MATCH] Borobudur Temple Compounds => Borobudur Temple Compounds | ID=592
+[MATCH] Boyana Church => Boyana Church | ID=42
+[MATCH] Bryggen => Bryggen | ID=59
+[MATCH] Buddhist Monuments in the Horyu-ji Area => Buddhist Monuments in the Horyu-ji Area | ID=660
+[MATCH] Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol => Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol | ID=140
+[MATCH] Byblos => Byblos | ID=295
+[MATCH] Chartres Cathedral => Chartres Cathedral | ID=81
+[MATCH] Church and Dominican Convent of Santa Maria delle Grazie with ΓÇ£The Last SupperΓÇ¥ by Leonardo da Vinci => Church and Dominican Convent of Santa Maria delle Grazie with ΓÇ£The Last SupperΓÇ¥ by Leonardo da Vinci | ID=93
+[MATCH] Churches and Convents of Goa => Churches and Convents of Goa | ID=234
+[MATCH] City of Quito => City of Quito | ID=2
+[MATCH] City of Valletta => City of Valletta | ID=131
+[MATCH] Ellora Caves => Ellora Caves | ID=243
+[MATCH] Fasil Ghebbi, Gondar Region => Fasil Ghebbi, Gondar Region | ID=19
+[MATCH] Fort and Shalamar Gardens in Lahore => Fort and Shalamar Gardens in Lahore | ID=171
+[MATCH] Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo => Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo | ID=135
+[MATCH] Forts and Castles, Volta, Greater Accra, Central and Western Regions => Forts and Castles, Volta, Greater Accra, Central and Western Regions | ID=34
+[MATCH] Group of Monuments at Mahabalipuram => Group of Monuments at Mahabalipuram | ID=249
+[MATCH] Historic Cairo => Historic Cairo | ID=89
+[MATCH] Historic Centre of Krak├│w => Historic Centre of Krak├│w | ID=29
+[MATCH] Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura => Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura | ID=91
+[MATCH] Historic City of Ayutthaya => Historic City of Ayutthaya | ID=576
+[MATCH] Historic Mosque City of Bagerhat => Historic Mosque City of Bagerhat | ID=321
+[MATCH] Historic Town of Ouro Preto => Historic Town of Ouro Preto | ID=124
+[MATCH] Historic Town of Sukhothai and Associated Historic Towns => Historic Town of Sukhothai and Associated Historic Towns | ID=574
+[MATCH] Historical Complex of Split with the Palace of Diocletian => Historical Complex of Split with the Palace of Diocletian | ID=97
+[MATCH] Historical Monuments at Makli, Thatta => Historical Monuments at Makli, Thatta | ID=143
+[MATCH] Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang => Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang | ID=439
+[MATCH] Independence Hall => Independence Hall | ID=78
+[MATCH] Island of Gor├⌐e => Island of Gor├⌐e | ID=26
+[MATCH] Kathmandu Valley => Kathmandu Valley | ID=121
+[MATCH] LΓÇÖAnse aux Meadows National Historic Site => LΓÇÖAnse aux Meadows National Historic Site | ID=4
+[MATCH] Madara Rider => Madara Rider | ID=43
+[MATCH] Mausoleum of the First Qin Emperor => Mausoleum of the First Qin Emperor | ID=441
+[MATCH] Maya Site of Copan => Maya Site of Copan | ID=129
+[MATCH] Medina of Tunis => Medina of Tunis | ID=36
+[MATCH] Meidan Emam, Esfahan => Meidan Emam, Esfahan | ID=115
+[MATCH] Memphis and its Necropolis ΓÇô the Pyramid Fields from Giza to Dahshur => Memphis and its Necropolis ΓÇô the Pyramid Fields from Giza to Dahshur | ID=86
+[MATCH] Mesa Verde National Park => Mesa Verde National Park | ID=27
+[MATCH] Mogao Caves => Mogao Caves | ID=440
+[MATCH] Mont-Saint-Michel and its Bay => Mont-Saint-Michel and its Bay | ID=80
+[MATCH] Mount Huangshan => Mount Huangshan | ID=547
+[MATCH] Mount Taishan => Mount Taishan | ID=437
+[MATCH] Natural and Cultural Heritage of the Ohrid region => Natural and Cultural Heritage of the Ohrid region | ID=99
+[MATCH] Natural and Culturo-Historical Region of Kotor => Natural and Culturo-Historical Region of Kotor | ID=125
+[MATCH] Ngorongoro Conservation Area => Ngorongoro Conservation Area | ID=39
+[MATCH] Nubian Monuments from Abu Simbel to Philae => Nubian Monuments from Abu Simbel to Philae | ID=88
+[MATCH] Old City of Dubrovnik => Old City of Dubrovnik | ID=95
+[MATCH] Old Walled City of Shibam => Old Walled City of Shibam | ID=192
+[MATCH] Palace and Park of Versailles => Palace and Park of Versailles | ID=83
+[MATCH] Peking Man Site at Zhoukoudian => Peking Man Site at Zhoukoudian | ID=449
+[MATCH] Persepolis => Persepolis | ID=114
+[MATCH] Petra => Petra | ID=326
+[MATCH] Prambanan Temple Compounds => Prambanan Temple Compounds | ID=642
+[MATCH] Prehistoric Sites and Decorated Caves of the V├⌐z├¿re Valley => Prehistoric Sites and Decorated Caves of the V├⌐z├¿re Valley | ID=85
+[MATCH] Rock Drawings in Valcamonica => Rock Drawings in Valcamonica | ID=94
+[MATCH] Rock-Hewn Churches of Ivanovo => Rock-Hewn Churches of Ivanovo | ID=45
+[MATCH] Rock-Hewn Churches, Lalibela => Rock-Hewn Churches, Lalibela | ID=18
+[MATCH] Ruins of the Buddhist Vihara at Paharpur => Ruins of the Buddhist Vihara at Paharpur | ID=322
+[MATCH] Sacred City of Anuradhapura => Sacred City of Anuradhapura | ID=200
+[MATCH] Site of Palmyra => Site of Palmyra | ID=23
+[MATCH] Stari Ras and Sopo─çani => Stari Ras and Sopo─çani | ID=96
+[MATCH] Sun Temple, Kon├órak => Sun Temple, Kon├órak | ID=246
+[MATCH] Taj Mahal => Taj Mahal | ID=252
+[MATCH] Taxila => Taxila | ID=139
+[MATCH] Tchogha Zanbil => Tchogha Zanbil | ID=113
+[MATCH] The Great Wall => The Great Wall | ID=438
+[MATCH] Thracian Tomb of Kazanlak => Thracian Tomb of Kazanlak | ID=44
+[MATCH] Tikal National Park => Tikal National Park | ID=64
+[MATCH] Urnes Stave Church => Urnes Stave Church | ID=58
+[MATCH] V├⌐zelay, Church and Hill => V├⌐zelay, Church and Hill | ID=84
+[MATCH] Wieliczka and Bochnia Royal Salt Mines => Wieliczka and Bochnia Royal Salt Mines | ID=32
+
+======================================================================
+TOTAL DB SITES     : 100
+EXACT MATCHES      : 92
+UNMATCHED          : 8
+======================================================================
+
+UNMATCHED SITES
+======================================================================
+
+DB SITE: Acropolis of Athens
+SLUG   : acropolis-of-athens
+  CANDIDATE: Acropolis, Athens | ID=404 | WORD OVERLAP=2
+
+DB SITE: Angkor Wat
+SLUG   : angkor-wat
+  NO NAME CANDIDATES
+
+DB SITE: Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)
+SLUG   : auschwitz-birkenau-german-nazi-concentration-and-extermination-camp-1940-1945
+  CANDIDATE: Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small> | ID=31 | WORD OVERLAP=10
+  CANDIDATE: ESMA Museum and Site of Memory ΓÇô Former Clandestine Centre of Detention, Torture and Extermination | ID=1681 | WORD OVERLAP=2
+
+DB SITE: Brihadeeswarar Temple
+SLUG   : brihadeeswarar-temple
+  NO NAME CANDIDATES
+
+DB SITE: Hampi
+SLUG   : hampi
+  NO NAME CANDIDATES
+
+DB SITE: Konark Sun Temple
+SLUG   : konark-sun-temple
+  CANDIDATE: Sun Temple, Kon├órak | ID=246 | WORD OVERLAP=2
+
+DB SITE: Machu Picchu
+SLUG   : machu-picchu
+  CANDIDATE: Historic Sanctuary of Machu Picchu | ID=274 | WORD OVERLAP=2
+
+DB SITE: Red Fort
+SLUG   : red-fort
+  CANDIDATE: Red Fort Complex | ID=231 | WORD OVERLAP=2
+
+======================================================================
+REPORT COMPLETE ΓÇö DATABASE WAS NOT MODIFIED
+======================================================================

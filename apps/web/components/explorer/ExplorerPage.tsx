@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import {
   Check,
@@ -71,14 +71,15 @@ export default function ExplorerPage() {
   const [categoryOpen, setCategoryOpen] = useState(false);
   const [country, setCountry] = useState("");
   const [countryOpen, setCountryOpen] = useState(false);
-const [currentPage, setCurrentPage] = useState(1);
-const [totalPages, setTotalPages] = useState(0);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [totalPages, setTotalPages] = useState(0);
+  const [totalSites, setTotalSites] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const dataTotalLabel =
-    sites.length === 1
+    totalSites === 1
       ? "1 heritage site found"
-      : `${sites.length} heritage sites found`;
+      : `${totalSites} heritage sites found`;
 
 
 
@@ -105,7 +106,7 @@ const [totalPages, setTotalPages] = useState(0);
           category: category || undefined,
           country: country || undefined,
           page: currentPage,
-          page_size: 12,
+          page_size: 10,
         });
 
         if (!cancelled) {
@@ -140,6 +141,7 @@ const [totalPages, setTotalPages] = useState(0);
 
         setMediaBySiteId(Object.fromEntries(mediaEntries));
       setTotalPages(data.total_pages);
+          setTotalSites(data.total);
         }
       } catch (err) {
         if (!cancelled) {
@@ -585,3 +587,4 @@ const [totalPages, setTotalPages] = useState(0);
     </main>
   );
 }
+

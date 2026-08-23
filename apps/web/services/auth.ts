@@ -1,4 +1,4 @@
-import apiClient from "@/lib/api-client";
+﻿import apiClient from "@/lib/api-client";
 import type {
   APIResponse,
   LoginRequest,
@@ -33,18 +33,4 @@ export async function getCurrentUser(): Promise<UserResponse> {
   );
 
   return response.data.data;
-}
-
-
-export async function googleLogin(
-  idToken: string,
-): Promise<TokenResponse> {
-  const response = await apiClient.post<TokenResponse>(
-    "/api/v1/auth/google",
-    {
-      id_token: idToken,
-    },
-  );
-
-  return response.data;
 }

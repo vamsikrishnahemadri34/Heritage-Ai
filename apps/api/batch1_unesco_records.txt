@@ -1,0 +1,90 @@
+﻿================================================================================
+NAME       : Agra Fort
+ID         : 251
+DATE       : 1983
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Ancient City of Polonnaruwa
+ID         : 201
+DATE       : 1982
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Aksum
+ID         : 15
+DATE       : 1980
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Al Qal'a of Beni Hammad
+ID         : 102
+DATE       : 1980
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Ancient City of Bosra
+ID         : 22
+DATE       : 1980
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Abu Mena
+ID         : 90
+DATE       : 1979
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Ancient City of Damascus
+ID         : 20
+DATE       : 1979
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Amphitheatre of El Jem
+ID         : 38
+DATE       : 1979
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
+================================================================================
+NAME       : Aachen Cathedral
+ID         : 3
+DATE       : 1978
+CATEGORY   : Cultural
+COUNTRY    : None
+LATITUDE   : None
+LONGITUDE  : None
+DESCRIPTION: None
+
