@@ -1,4 +1,4 @@
-from pydantic_settings import BaseSettings, SettingsConfigDict
+﻿from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
@@ -16,22 +16,22 @@ class Settings(BaseSettings):
     MEDIA_STORAGE_PATH: str
     MEDIA_BASE_URL: str
 
-    # ------------------------------------------
-    # Gemini AI
-    # ------------------------------------------
-
     GEMINI_API_KEY: str
-
-    # Google Authentication
     GOOGLE_OAUTH_CLIENT_IDS: str
 
     QDRANT_URL: str | None = None
     QDRANT_API_KEY: str | None = None
 
     GEMINI_EMBEDDING_MODEL: str = "gemini-embedding-001"
-
     GEMINI_EMBEDDING_DIMENSIONS: int = 768
     GEMINI_GENERATION_MODEL: str = "gemini-3.5-flash"
+
+    CORS_ORIGINS: str = (
+        "http://localhost:3000,"
+        "http://127.0.0.1:3000,"
+        "http://localhost:8081,"
+        "http://127.0.0.1:8081"
+    )
 
     model_config = SettingsConfigDict(
         env_file=".env",
@@ -40,8 +40,3 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-
-
-
-
-
