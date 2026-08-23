@@ -1,32 +1,21 @@
-﻿# ============================================================
-# HERITAGEAI — GITIGNORE
-# ============================================================
-
-# Secrets / environment
+﻿# Secrets
 .env
 .env.*
 !.env.example
 
-# Python
+# Dependencies
+node_modules/
 .venv/
 .venv-*/
 __pycache__/
 *.py[cod]
-.pytest_cache/
-.mypy_cache/
 
-# Node
-node_modules/
-.pnpm-store/
-
-# Next.js / Expo / builds
+# Build output
 .next/
 .expo/
 dist/
 build/
 coverage/
-
-# Android / iOS generated builds
 apps/mobile/android/.gradle/
 apps/mobile/android/build/
 apps/mobile/android/app/build/
@@ -36,8 +25,23 @@ apps/mobile/ios/build/
 *.apk
 *.aab
 
-# Logs / temporary files
+# Local databases / vector stores
+**/qdrant/
+**/storage.sqlite
+**/.lock
+
+# Logs
 *.log
+
+# Temporary / backup files
+*.bak
+*.bak-*
+*.backup
+*.backup-*
+*.before
+*.before-*
+*.task*-before*
+*.recovery*
 *.tmp
 *.temp
 
@@ -46,36 +50,3 @@ apps/mobile/ios/build/
 .idea/
 .DS_Store
 Thumbs.db
-
-# Backup / recovery files
-*.backup
-*.bak
-*.bak-*
-*.before
-*.before-*
-*.recovery
-*.recovery-*
-*.task*-before
-*.task*-backup
-*.step*-backup
-*.step*-recovery*
-*.backup-before-*
-*.backup-before-*
-*.pyc
-
-# Temporary generated research / diagnostics
-android-build-diagnostic.log
-candidate_enrichment_scripts.txt
-existing_heritage_data_scripts.txt
-heritage_detail_classes.txt
-heritage_detail_endpoint_search.txt
-heritage_detail_model_search.txt
-heritage_enrichment_search.txt
-unesco_schema_search.txt
-
-# Local media cache
-apps/api/storage/media/
-apps/api/storage/voice-guide/
-
-# Local generated binaries
-apps/api/takht_bahi.jpg
