@@ -3,7 +3,12 @@
 import { useEffect, useState } from "react";
 import { motion, useReducedMotion } from "framer-motion";
 import Link from "next/link";
-import { ArrowRight, ChevronLeft, ChevronRight, Sparkles } from "lucide-react";
+import {
+  ArrowRight,
+  ChevronLeft,
+  ChevronRight,
+  Sparkles,
+} from "lucide-react";
 import HeroBackground from "./HeroBackground";
 import HeroBadge from "./HeroBadge";
 import HeroStats from "./HeroStats";
@@ -16,13 +21,13 @@ import {
 
 const HERO_EASE = [0.22, 1, 0.36, 1] as const;
 
+interface HeroGalleryItem {
+  site: HeritageSite;
+  imageUrl: string;
+}
+
 export default function Hero() {
   const reduceMotion = useReducedMotion();
-
-  interface HeroGalleryItem {
-    site: HeritageSite;
-    imageUrl: string;
-  }
 
   const [gallery, setGallery] = useState<HeroGalleryItem[]>([]);
   const [galleryIndex, setGalleryIndex] = useState(0);
@@ -40,9 +45,7 @@ export default function Hero() {
         const items = await Promise.all(
           result.sites.map(async (site) => {
             try {
-              const mediaResult = await getHeritageSiteMedia(
-                site.id,
-              );
+              const mediaResult = await getHeritageSiteMedia(site.id);
 
               const primary =
                 mediaResult.media.find(
@@ -166,7 +169,6 @@ export default function Hero() {
                   aria-hidden="true"
                 />
               </Link>
-
             </div>
 
             <div className="mt-10">
@@ -200,17 +202,14 @@ export default function Hero() {
                   {currentGalleryImage ? (
                     <img
                       src={currentGalleryImage}
-                      alt="Brihadeeswarar Temple"
+                      alt={
+                        currentGallerySite?.name ??
+                        "Heritage site"
+                      }
                       className="h-full w-full object-cover transition-opacity duration-300"
                     />
                   ) : (
-                    <div
-                      className="h-full w-full bg-cover bg-center"
-                      style={{
-                        backgroundImage:
-                          "url('/heritage/brihadeeswarar-temple.jpg')",
-                      }}
-                    />
+                    <div className="h-full w-full animate-pulse bg-[var(--heritage-charcoal)]" />
                   )}
                 </div>
 
@@ -256,7 +255,7 @@ export default function Hero() {
 
                         <h2 className="mt-2 text-xl font-semibold tracking-tight text-[var(--heritage-ivory)] sm:text-2xl">
                           {currentGallerySite?.name ??
-                            "Brihadeeswarar Temple"}
+                            "Loading heritage..."}
                         </h2>
 
                         <p className="mt-1 text-sm text-[var(--heritage-muted)]">
@@ -264,10 +263,11 @@ export default function Hero() {
                             ? [
                                 currentGallerySite.city,
                                 currentGallerySite.state,
+                                currentGallerySite.country,
                               ]
                                 .filter(Boolean)
                                 .join(", ")
-                            : "Thanjavur, Tamil Nadu"}
+                            : "Discovering heritage"}
                         </p>
                       </div>
 
@@ -282,7 +282,7 @@ export default function Hero() {
                     <div className="mt-5 flex flex-wrap gap-2">
                       <span className="heritage-badge">
                         {currentGallerySite?.category ??
-                          "Temple"}
+                          "Heritage"}
                       </span>
 
                       {currentGallerySite?.architectural_style && (
