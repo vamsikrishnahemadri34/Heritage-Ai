@@ -55,3 +55,10 @@ Thumbs.db
 apps/api/storage/
 
 .vercel
+
+# HeritageAI production static heritage media
+!apps/api/storage/
+!apps/api/storage/media/
+!apps/api/storage/media/heritage/
+!apps/api/storage/media/heritage/**
+
