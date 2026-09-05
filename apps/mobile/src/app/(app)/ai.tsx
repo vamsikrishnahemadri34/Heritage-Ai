@@ -1,4 +1,4 @@
-﻿import { useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import {
   ActivityIndicator,
   KeyboardAvoidingView,
@@ -47,10 +47,8 @@ export default function AIChatScreen() {
   ]);
   const [input, setInput] = useState("");
   const [isSending, setIsSending] = useState(false);
-  const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [isSpeaking, setIsSpeaking] = useState(false);
   const [isRecording, setIsRecording] = useState(false);
-  const [recordingUri, setRecordingUri] = useState<string | null>(null);
   const recorder = useAudioRecorder(RecordingPresets.HIGH_QUALITY);
 
   const scrollViewRef = useRef<ScrollView>(null);
@@ -134,7 +132,6 @@ export default function AIChatScreen() {
         const uri = recorder.uri;
 
         setIsRecording(false);
-        setRecordingUri(uri ?? null);
 
         console.log(
           "[CHAT VOICE TRACE] recording completed:",
@@ -144,9 +141,6 @@ export default function AIChatScreen() {
         );
 
         if (!uri) {
-          setErrorMessage(
-            "Recording stopped but no audio file was created.",
-          );
           return;
         }
 
@@ -183,12 +177,6 @@ export default function AIChatScreen() {
             "[CHAT VOICE TRACE] transcription failed:",
             error,
           );
-
-          setErrorMessage(
-            error instanceof Error
-              ? error.message
-              : "Voice transcription failed.",
-          );
         } finally {
           setIsSending(false);
         }
@@ -199,26 +187,19 @@ export default function AIChatScreen() {
         );
 
         setIsRecording(false);
-        setErrorMessage("Unable to stop voice recording.");
       }
 
       return;
     }
 
     try {
-      setErrorMessage(null);
 
       const permission =
         await requestRecordingPermissionsAsync();
 
       if (!permission.granted) {
-        setErrorMessage(
-          "Microphone permission is required for voice input.",
-        );
         return;
       }
-
-      setRecordingUri(null);
 
       await recorder.prepareToRecordAsync();
 
@@ -236,7 +217,6 @@ export default function AIChatScreen() {
       );
 
       setIsRecording(false);
-      setErrorMessage("Unable to start voice recording.");
     }
   };
   const handleSend = async () => {

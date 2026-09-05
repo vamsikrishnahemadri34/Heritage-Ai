@@ -1,4 +1,4 @@
-﻿import { Ionicons } from "@expo/vector-icons";
+import { Ionicons } from "@expo/vector-icons";
 import * as ImageManipulator from "expo-image-manipulator";
 import * as ImagePicker from "expo-image-picker";
 import { useRouter } from "expo-router";
@@ -19,7 +19,6 @@ import {
   HeritageColors,
   HeritageRadius,
   HeritageSpacing,
-  HeritageTypography,
 } from "@/constants/theme";
 
 type IdentificationStatus =

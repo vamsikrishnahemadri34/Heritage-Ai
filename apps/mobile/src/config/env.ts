@@ -1,4 +1,4 @@
-const FALLBACK_API_URL = "https://heritageai-api.onrender.com/api/v1";
+const FALLBACK_API_URL = "https://heritage-ai-8bdp.onrender.com/api/v1";
 
 export const env = {
   apiUrl:

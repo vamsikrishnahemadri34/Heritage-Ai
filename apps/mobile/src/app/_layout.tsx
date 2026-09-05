@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Animated, Image, StyleSheet, Text, View } from "react-native";
 import * as SplashScreen from "expo-splash-screen";
 import { Stack } from "expo-router";
@@ -10,10 +10,10 @@ function HeritageAISplash({
 }: {
   onComplete: () => void;
 }) {
-  const opacity = useRef(new Animated.Value(0)).current;
-  const scale = useRef(new Animated.Value(0.82)).current;
-  const taglineOpacity = useRef(new Animated.Value(0)).current;
-  const exitOpacity = useRef(new Animated.Value(1)).current;
+  const [opacity] = useState(() => new Animated.Value(0));
+  const [scale] = useState(() => new Animated.Value(0.82));
+  const [taglineOpacity] = useState(() => new Animated.Value(0));
+  const [exitOpacity] = useState(() => new Animated.Value(1));
 
   useEffect(() => {
     const animation = Animated.sequence([
