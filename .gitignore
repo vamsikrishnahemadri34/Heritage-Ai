@@ -62,3 +62,6 @@ apps/api/storage/
 !apps/api/storage/media/heritage/
 !apps/api/storage/media/heritage/**
 
+
+# HeritageAI runtime-generated voice guide media
+apps/api/storage/media/voice-guide/
