@@ -54,3 +54,4 @@ Thumbs.db
 # HeritageAI runtime media
 apps/api/storage/
 
+.vercel

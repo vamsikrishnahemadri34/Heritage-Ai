@@ -1,5 +1,4 @@
-const API_BASE_URL =
-  `${process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000"}/api/v1`;
+const API_BASE_URL = `${process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000/api/v1"}`.replace(/\/+$/, "");
 
 export interface HeritageSite {
   id: string;
@@ -467,3 +466,5 @@ export async function getHeritageSites(
 
   return payload.data;
 }
+
+
