@@ -114,7 +114,7 @@ This project is licensed under the MIT License.
 
 ## Maintainer
 
-**VANI HEMADRI**
+**VAMSI KRISHNA HEMADRI**
 
 Bachelor of Technology (Computer Science Engineering)
 
